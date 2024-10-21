@@ -1,0 +1,2266 @@
+.halaman-utama .group-20 {
+  border-radius: 0.6rem;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 0.9rem;
+  display: flex;
+  padding-bottom: 2rem;
+  box-sizing: border-box;
+}
+.halaman-utama .group-21 {
+  border-radius: 0.6rem;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 0.9rem;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 1.1rem;
+  box-sizing: border-box;
+}
+.halaman-utama .rectangle-13 {
+  border-radius: 0.6rem;
+  background: url('../assets/images/rectangle_133.png') 50% / cover no-repeat;
+  margin-bottom: 0.9rem;
+  width: 16.8rem;
+  height: 12.5rem;
+}
+.halaman-utama .international-5-star-resorts-and-golf-courses-for-the-luxury-traveler {
+  margin: 0 1.4rem 1.1rem 0.9rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.halaman-utama .oct-102023 {
+  margin: 0 0.9rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 0.9rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .group-22 {
+  border-radius: 0.6rem;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 0.9rem;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 1.1rem;
+  box-sizing: border-box;
+}
+.halaman-utama .rectangle-131 {
+  border-radius: 0.6rem;
+  background: url('../assets/images/rectangle_132.png') 50% / cover no-repeat;
+  margin-bottom: 0.9rem;
+  width: 16.8rem;
+  height: 12.5rem;
+}
+.halaman-utama .mountain-area-with-an-iconic-water-temple-three-lakes {
+  margin: 0 0.9rem 1.1rem 0.9rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.halaman-utama .oct-1020231 {
+  margin: 0 0.9rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 0.9rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .group-23 {
+  border-radius: 0.6rem;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 1.1rem;
+  box-sizing: border-box;
+}
+.halaman-utama .balis-party-place-for-the-young-and-wild {
+  margin: 0 0.9rem 2.5rem 0.9rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.halaman-utama .oct-1020232 {
+  margin: 0 0.9rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 0.9rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .kuta {
+  opacity: 0.8;
+  mix-blend-mode: hard-light;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 4.3rem;
+  color: #FFFFFF;
+}
+.halaman-utama .group-24 {
+  margin: 0 7.2rem 3.4rem 7.4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .group-26 {
+  margin: 0 0 3.4rem 0.1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .why-should-you-use-our-services {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 800;
+  font-size: 4.4rem;
+  line-height: 0.977;
+  color: #FFFFFF;
+}
+.halaman-utama .group-27 {
+  margin: 0 0.1rem 3.4rem 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .group-29 {
+  margin: 0 5.5rem 3.4rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .group-28 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .we-know-how-to-travel-on-the-cheap-we-partner-with-awide-of-boats {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 0.9rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .best-price-guaranty {
+  margin: 0 0.5rem 0.6rem 0.5rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: #000000;
+}
+.halaman-utama .layer-1 {
+  margin: 0 0.1rem 1.4rem 0;
+  width: 8.7rem;
+  height: 8.7rem;
+}
+.halaman-utama .group-30 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .group-281 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .our-website-and-payment-get-way-is-trusted-with-security-certificate-giving-with-customers-confidence-they-are {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 0.9rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .save-and-secure {
+  margin: 0 0 0.6rem 0.1rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: #000000;
+}
+.halaman-utama .group-31 {
+  margin: 0 0.4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .group-282 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .we-provide-best-traveling-services-for-our-beloved-customers {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .best-travel-agent {
+  margin: 0 0.8rem 0.6rem 0.9rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: #000000;
+}
+.halaman-utama .group-32 {
+  position: absolute;
+  right: 8.5rem;
+  bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .group-283 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .we-have-24-hours-customer-support-to-make-ensure-that-your-transaction-and-traveling-is-filled-with-joy {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .customer-support {
+  margin: 0 1.2rem 0.6rem 1.2rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: #000000;
+}
+.halaman-utama .layer-11 {
+  margin: 0 0 1.4rem 0.1rem;
+  width: 8.7rem;
+  height: 8.7rem;
+}
+.halaman-utama .layer-12 {
+  margin: 0 0.1rem 1.4rem 0;
+  width: 8.7rem;
+  height: 8.7rem;
+}
+.halaman-utama .layer-13 {
+  margin: 0 0.1rem 1.9rem 0;
+  width: 8.7rem;
+  height: 8.7rem;
+}
+.halaman-utama .rectangle-17 {
+  mix-blend-mode: multiply;
+  border-radius: 0.6rem;
+  background: linear-gradient(97.31deg, #103BE9 0.5%, rgba(16, 59, 233, 0) 77.7%);
+  position: absolute;
+  left: 50%;
+  top: 0rem;
+  translate: -50% 0;
+  width: 69.7rem;
+  height: 22.6rem;
+}
+.halaman-utama .group-33 {
+  border-radius: 0.6rem;
+  background: url('../assets/images/rectangle_1241.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 0 2.9rem 0.2rem;
+  display: flex;
+  flex-direction: column;
+  padding: 4.5rem 0 4.5rem 4rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .never-miss-our-offer {
+  position: relative;
+  margin-bottom: 1.1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 800;
+  font-size: 2.5rem;
+  line-height: 0.977;
+  color: #FFFFFF;
+}
+.halaman-utama .subscribe-and-be-the-first-to-receive-our-exclusive-offers {
+  position: relative;
+  margin-bottom: 1.1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 1.3rem;
+  line-height: 0.977;
+  color: #FFFFFF;
+}
+.halaman-utama .group-34 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .check-square {
+  margin-right: 0.6rem;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.halaman-utama .yes-iwould-like-to-receive-offers-and-email-from-gilijet-com {
+  margin: 0.2rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 0.977;
+  color: #FFFFFF;
+}
+.halaman-utama .group-35 {
+  border-radius: 0.6rem;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 1.4rem;
+  align-self: flex-start;
+  padding: 1.3rem 1rem 1.2rem 1rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .enter-your-email-here {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.3rem;
+  line-height: 0.977;
+  color: var(--gray-5, #E0E0E0);
+}
+.halaman-utama .footer-30 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5.4rem 2.5rem 1.3rem 2rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .let-journey-begin-with-gilijet {
+  position: relative;
+  margin: 0 0 1.6rem 0.5rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  color: #000000;
+}
+.halaman-utama .button {
+  border-radius: 1.9rem;
+  background: #103BE9;
+  position: relative;
+  margin: 0 0 2.3rem 0.6rem;
+  display: flex;
+  padding: 1rem 0;
+  width: 12.7rem;
+  box-sizing: border-box;
+}
+.halaman-utama .frame-12 {
+  position: relative;
+  margin: 0 0 7.8rem 0.5rem;
+  display: flex;
+  flex-direction: row;
+  width: 4rem;
+  box-sizing: border-box;
+}
+.halaman-utama .social {
+  border-radius: 0.8rem;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 1rem;
+  display: flex;
+  padding: 0.3rem 0.5rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.halaman-utama .social-1 {
+  border-radius: 0.8rem;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 0.3rem 0.2rem 0.2rem 0.3rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.halaman-utama .copyright {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.halaman-utama .arrows {
+  position: relative;
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-self: flex-end;
+  padding: 0.8rem 0.5rem;
+  width: 2rem;
+  height: 2rem;
+  box-sizing: border-box;
+}
+.halaman-utama .logo {
+  position: relative;
+  margin: 0 0 3.1rem 0.5rem;
+  width: 13.1rem;
+  height: 8.3rem;
+}
+.halaman-utama .chevron-left-circle {
+  margin: 9.4rem 0.5rem 9.3rem 0;
+  width: 2.2rem;
+  height: 2.2rem;
+}
+.halaman-utama .chevron-left-circle-1 {
+  margin: 9.4rem 0 9.3rem 0;
+  width: 2.2rem;
+  height: 2.2rem;
+}
+.halaman-utama .group-6 {
+  position: absolute;
+  left: 50%;
+  top: 29.8rem;
+  translate: -50% 0;
+  display: flex;
+  width: 69.8rem;
+  height: 25.6rem;
+  box-sizing: border-box;
+}
+.halaman-utama .mask-group {
+  box-shadow: var(--shadow, 0rem 0rem 1.6rem 0rem rgba(0, 0, 0, 0.15));
+  border-radius: 0.6rem;
+  background: #FFFFFF;
+  position: relative;
+  width: 69.8rem;
+  height: 25.6rem;
+}
+.halaman-utama .group-8 {
+  margin-bottom: 0.9rem;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .departure {
+  margin-right: 0.6rem;
+  width: 4.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .pessangers {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .group-4 {
+  border-radius: 0.6rem;
+  border: 0.1rem solid #F2F2F2;
+  position: relative;
+  margin-right: 1rem;
+  display: flex;
+  flex-direction: row;
+  padding: 1.6rem 0 1.6rem 1.1rem;
+  width: 19.1rem;
+  box-sizing: border-box;
+}
+.halaman-utama .calendar-add {
+  margin-right: 0.2rem;
+  display: flex;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.halaman-utama .tue-10-oct-2023 {
+  margin: 0.2rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  color: #000000;
+}
+.halaman-utama .group-5 {
+  border-radius: 0.6rem;
+  border: 0.1rem solid #F2F2F2;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.6rem 0.7rem 1.5rem 1.2rem;
+  width: 19.1rem;
+  box-sizing: border-box;
+}
+.halaman-utama .people {
+  margin-right: 0.6rem;
+  display: flex;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.halaman-utama .chevron-down-alt {
+  background: #FFFFFF;
+  display: flex;
+  padding: 0.6rem 1.1rem 0.6rem 0.4rem;
+  width: 2.2rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.halaman-utama .path-8 {
+  border-radius: 0.1rem;
+  width: 0.8rem;
+  height: 0.4rem;
+}
+.halaman-utama .passangers {
+  margin: 0.2rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  color: #000000;
+}
+.halaman-utama .group-61 {
+  margin-right: 1rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.halaman-utama .chevron-down-alt-1 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 0.6rem 0.4rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.halaman-utama .path-9 {
+  border-radius: 0.1rem;
+  width: 0.8rem;
+  height: 0.4rem;
+}
+.halaman-utama .idr-indonesian-rupiah {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  color: #000000;
+}
+.halaman-utama .money {
+  margin: 0rem 0.7rem 0rem 0;
+  display: flex;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.halaman-utama .currency {
+  margin-bottom: 0.8rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .group-7 {
+  position: relative;
+  margin-bottom: 0.9rem;
+  display: flex;
+  width: 39.3rem;
+  box-sizing: border-box;
+}
+.halaman-utama .location {
+  position: absolute;
+  left: 0.9rem;
+  bottom: 1.7rem;
+  display: flex;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.halaman-utama .location-1 {
+  position: absolute;
+  top: 50%;
+  right: 16rem;
+  translate: 0 -50%;
+  display: flex;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.halaman-utama .from {
+  margin-right: 0.6rem;
+  width: 2.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .to {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .group-2 {
+  border-radius: 0.6rem;
+  border: 0.1rem solid #F2F2F2;
+  position: relative;
+  padding: 1.1rem 2.8rem;
+  width: 39.3rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .vector-1 {
+  background: #F2F2F2;
+  position: absolute;
+  left: 50%;
+  bottom: 0rem;
+  translate: -50% 0;
+  width: 0rem;
+  height: 4.5rem;
+}
+.halaman-utama .pelabuhan-ketapang-kt {
+  margin: 0.7rem 0.6rem 0.6rem 0;
+  display: inline-block;
+  width: 10.7rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  color: #000000;
+}
+.halaman-utama .gilimanuk-gm {
+  margin: 0.7rem 0 0.6rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  color: #000000;
+}
+.halaman-utama .group-3 {
+  border-radius: 1.2rem;
+  background: #103BE9;
+  position: relative;
+  display: flex;
+  padding: 0.5rem 0.5rem 0.4rem 0.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.halaman-utama .switch-vertical {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.halaman-utama .find-the-best-deals-on-boat-for-your-trip {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 2.5rem;
+  line-height: 0.977;
+  color: #FFFFFF;
+}
+.halaman-utama .frame-3 {
+  border-radius: 2.8rem;
+  background: #103BE9;
+  margin: 1.8rem 0 0.1rem 0;
+  display: flex;
+  flex-direction: row;
+  padding: 1.6rem 0;
+  width: 19.1rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .search-normal {
+  margin-right: 1.1rem;
+  display: flex;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.halaman-utama .search {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #FFFFFF;
+}
+.halaman-utama .group-1 {
+  margin: 0 7.8rem 1.4rem 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .boat-icon-24-px {
+  margin: 0.4rem 0.5rem 0.3rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 2.3rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .vector-85 {
+  width: 2.2rem;
+  height: 0.6rem;
+}
+.halaman-utama .vector-86 {
+  margin: 0 0.2rem 0 0rem;
+  width: 1.9rem;
+  height: 0.1rem;
+}
+.halaman-utama .boat-trip {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #FFFFFF;
+}
+.halaman-utama .vector-3 {
+  background: #BDBDBD;
+  margin: 3.4rem 1.4rem 4.8rem 0;
+  width: 4.4rem;
+  height: 0rem;
+}
+.halaman-utama .rectangle-99 {
+  border-radius: 0.6rem;
+  background: url('../assets/images/rectangle_1242.png') 50% / cover no-repeat;
+  margin-right: 2.1rem;
+  width: 12.5rem;
+  height: 15.6rem;
+}
+.halaman-utama .group-37 {
+  border-radius: 3.1rem;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 1.4rem 1.4rem 1.8rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0.5rem 0 0.5rem 1.3rem;
+  width: 15rem;
+  box-sizing: border-box;
+}
+.halaman-utama .frame {
+  position: relative;
+  margin-right: 0.6rem;
+  width: 2.6rem;
+  height: 2.4rem;
+}
+.halaman-utama .objects {
+  position: absolute;
+  top: -0.1rem;
+  right: -0.2rem;
+  width: 2.8rem;
+  height: 2.1rem;
+}
+.halaman-utama .group-19 {
+  box-shadow: 0rem 0rem 1.6rem 0rem rgba(0, 0, 0, 0.15);
+  border-radius: 0.6rem;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0.1rem 0.6rem 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .rectangle-991 {
+  border-radius: 0.6rem;
+  background: url('../assets/images/rectangle_991.png') 50% / cover no-repeat;
+  margin-right: 2.1rem;
+  width: 12.5rem;
+  height: 15.6rem;
+}
+.halaman-utama .mask-group-1 {
+  border-radius: 0.6rem;
+  background: #E1E7FF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .vector-4 {
+  opacity: 0.1;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 6rem;
+  right: -0.3rem;
+  width: 12.1rem;
+  height: 10rem;
+}
+.halaman-utama .idr-155000-pax {
+  position: relative;
+  margin: 0 0 1rem 0.2rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 1.9rem;
+  color: #000000;
+}
+.idr-155000-pax {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  line-height: 1.333;
+  color: #103BE9;
+}
+.halaman-utama .group-371 {
+  border-radius: 3.1rem;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 1.4rem 1.4rem 1.8rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0.7rem 1.1rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .gili-gili-fast-boat {
+  margin: 0.2rem 0 0.3rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.halaman-utama .frame-4 {
+  border-radius: 2.8rem;
+  background: #103BE9;
+  position: relative;
+  margin: 0 0 1.6rem 0.3rem;
+  display: flex;
+  padding: 1.6rem 0rem 1.6rem 0;
+  width: 13.3rem;
+  box-sizing: border-box;
+}
+.halaman-utama .choose {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #FFFFFF;
+}
+.halaman-utama .departure-tue-10-oct-23 {
+  margin-bottom: 2.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.halaman-utama .group-12 {
+  margin-left: 0.1rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .group-9 {
+  margin-right: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .container {
+  margin: 0 0.9rem 1.1rem 0.1rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #000000;
+}
+.halaman-utama .pelabuhan-ketapang-kt-1 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .group-10 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .container-1 {
+  margin: 0 0.6rem 1.1rem 0.6rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #000000;
+}
+.halaman-utama .gilimanuk-gm-1 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .group-11 {
+  margin: 2.2rem 2rem 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 5.6rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .boat-icon-24-px-1 {
+  margin-bottom: 1.4rem;
+  display: flex;
+  width: 5.6rem;
+  height: 5.6rem;
+  box-sizing: border-box;
+}
+.halaman-utama .layer-14 {
+  width: 5.2rem;
+  height: 1.6rem;
+}
+.halaman-utama .m {
+  margin-left: 0rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .vector-2 {
+  background: #BDBDBD;
+  margin: 3.4rem 2rem 4.8rem 0;
+  width: 4.4rem;
+  height: 0rem;
+}
+.halaman-utama .vector-31 {
+  background: #BDBDBD;
+  margin: 3.4rem 1.4rem 4.8rem 0;
+  width: 4.4rem;
+  height: 0rem;
+}
+.halaman-utama .frame-1 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 2.6rem;
+  height: 2rem;
+  box-sizing: border-box;
+}
+.halaman-utama .objects-1 {
+  width: 2.6rem;
+  height: 2rem;
+}
+.halaman-utama .group-201 {
+  box-shadow: 0rem 0rem 1.6rem 0rem rgba(0, 0, 0, 0.15);
+  border-radius: 0.6rem;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0.1rem 0.6rem 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .rectangle-992 {
+  border-radius: 0.6rem;
+  background: url('../assets/images/rectangle_1242.png') 50% / cover no-repeat;
+  margin-right: 2.1rem;
+  width: 12.5rem;
+  height: 15.6rem;
+}
+.halaman-utama .mask-group-2 {
+  border-radius: 0.6rem;
+  background: #E1E7FF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .vector-41 {
+  opacity: 0.1;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 6rem;
+  right: -0.3rem;
+  width: 12.1rem;
+  height: 10rem;
+}
+.halaman-utama .idr-215000-pax {
+  position: relative;
+  margin: 0 0 1rem 0.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 1.9rem;
+  color: #000000;
+}
+.idr-215000-pax {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  line-height: 1.333;
+  color: #103BE9;
+}
+.halaman-utama .group-372 {
+  border-radius: 3.1rem;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 1.4rem 1.4rem 1.8rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0.5rem 0 0.5rem 1.3rem;
+  width: 15rem;
+  box-sizing: border-box;
+}
+.halaman-utama .frame-2 {
+  position: relative;
+  margin-right: 0.6rem;
+  width: 2.6rem;
+  height: 2.4rem;
+}
+.halaman-utama .objects-2 {
+  position: absolute;
+  top: -0.1rem;
+  right: -0.2rem;
+  width: 2.8rem;
+  height: 2.1rem;
+}
+.halaman-utama .gilijet-express {
+  margin: 0.4rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.halaman-utama .frame-41 {
+  border-radius: 2.8rem;
+  background: #103BE9;
+  position: relative;
+  margin: 0 0 1.6rem 0.3rem;
+  display: flex;
+  padding: 1.6rem 0rem 1.6rem 0;
+  width: 13.3rem;
+  box-sizing: border-box;
+}
+.halaman-utama .choose-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #FFFFFF;
+}
+.halaman-utama .departure-tue-10-oct-231 {
+  margin-bottom: 2.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.halaman-utama .group-121 {
+  margin-left: 0.1rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .group-91 {
+  margin-right: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .container-2 {
+  margin: 0 0.9rem 1.1rem 0.1rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #000000;
+}
+.halaman-utama .pelabuhan-ketapang-kt-2 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .group-101 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .container-3 {
+  margin: 0 0.7rem 1.1rem 0.8rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #000000;
+}
+.halaman-utama .gilimanuk-gm-2 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .group-111 {
+  margin: 2.2rem 2rem 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.halaman-utama .boat-icon-24-px-2 {
+  margin-bottom: 1.4rem;
+  display: flex;
+  width: 5.6rem;
+  height: 5.6rem;
+  box-sizing: border-box;
+}
+.halaman-utama .layer-15 {
+  width: 5.2rem;
+  height: 1.6rem;
+}
+.halaman-utama .m-1 {
+  margin: 0 1.2rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .vector-21 {
+  background: #BDBDBD;
+  margin: 3.4rem 2rem 4.8rem 0;
+  width: 4.4rem;
+  height: 0rem;
+}
+.halaman-utama .vector-32 {
+  background: #BDBDBD;
+  margin: 3.4rem 1.4rem 4.8rem 0;
+  width: 4.4rem;
+  height: 0rem;
+}
+.halaman-utama .group-211 {
+  box-shadow: 0rem 0rem 1.6rem 0rem rgba(0, 0, 0, 0.15);
+  border-radius: 0.6rem;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 0.6rem 0.1rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .rectangle-993 {
+  border-radius: 0.6rem;
+  background: url('../assets/images/rectangle_991.png') 50% / cover no-repeat;
+  margin-right: 2.1rem;
+  width: 12.5rem;
+  height: 15.6rem;
+}
+.halaman-utama .mask-group-3 {
+  border-radius: 0.6rem;
+  background: #E1E7FF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .vector-42 {
+  opacity: 0.1;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 6rem;
+  right: -0.3rem;
+  width: 12.1rem;
+  height: 10rem;
+}
+.halaman-utama .idr-155000-pax-1 {
+  position: relative;
+  margin: 0 0 1rem 0.2rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 1.9rem;
+  color: #000000;
+}
+.idr-155000-pax-1 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  line-height: 1.333;
+  color: #103BE9;
+}
+.halaman-utama .group-373 {
+  border-radius: 3.1rem;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 1.4rem 1.4rem 1.8rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0.7rem 1.1rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .gili-gili-fast-boat-1 {
+  margin: 0.2rem 0 0.3rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.halaman-utama .frame-3 {
+  margin-right: 0.4rem;
+  display: flex;
+  width: 2.6rem;
+  height: 2rem;
+  box-sizing: border-box;
+}
+.halaman-utama .objects-3 {
+  width: 2.6rem;
+  height: 2rem;
+}
+.halaman-utama .frame-42 {
+  border-radius: 2.8rem;
+  background: #103BE9;
+  position: relative;
+  margin: 0 0 1.6rem 0.3rem;
+  display: flex;
+  padding: 1.6rem 0rem 1.6rem 0;
+  width: 13.3rem;
+  box-sizing: border-box;
+}
+.halaman-utama .choose-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #FFFFFF;
+}
+.halaman-utama .departure-tue-10-oct-232 {
+  margin-bottom: 2.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.halaman-utama .group-122 {
+  margin-left: 0.1rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .group-92 {
+  margin-right: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .container-4 {
+  margin: 0 0.9rem 1.1rem 0.2rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #000000;
+}
+.halaman-utama .pelabuhan-ketapang-kt-3 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .group-102 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .container-5 {
+  margin: 0 0.5rem 1.1rem 0.6rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #000000;
+}
+.halaman-utama .gilimanuk-gm-3 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .group-112 {
+  margin: 2.2rem 2rem 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 5.6rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .boat-icon-24-px-3 {
+  margin-bottom: 1.4rem;
+  display: flex;
+  width: 5.6rem;
+  height: 5.6rem;
+  box-sizing: border-box;
+}
+.halaman-utama .layer-16 {
+  width: 5.2rem;
+  height: 1.6rem;
+}
+.halaman-utama .m-2 {
+  margin-left: 0rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .vector-22 {
+  background: #BDBDBD;
+  margin: 3.4rem 2rem 4.8rem 0;
+  width: 4.4rem;
+  height: 0rem;
+}
+.halaman-utama .vector-33 {
+  background: #BDBDBD;
+  margin: 3.4rem 1.4rem 4.8rem 0;
+  width: 4.4rem;
+  height: 0rem;
+}
+.halaman-utama .group-221 {
+  box-shadow: 0rem 0rem 1.6rem 0rem rgba(0, 0, 0, 0.15);
+  border-radius: 0.6rem;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 2.4rem 0.1rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .rectangle-994 {
+  border-radius: 0.6rem;
+  background: url('../assets/images/rectangle_99.png') 50% / cover no-repeat;
+  margin-right: 2.1rem;
+  width: 12.5rem;
+  height: 15.6rem;
+}
+.halaman-utama .mask-group-4 {
+  border-radius: 0.6rem;
+  background: #E1E7FF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 18.3rem;
+  box-sizing: border-box;
+}
+.halaman-utama .vector-43 {
+  opacity: 0.1;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 6rem;
+  right: -0.3rem;
+  width: 12.1rem;
+  height: 10rem;
+}
+.halaman-utama .idr-165000-pax {
+  position: relative;
+  margin: 0 0 1rem 0.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 1.9rem;
+  color: #000000;
+}
+.idr-165000-pax {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  line-height: 1.333;
+  color: #103BE9;
+}
+.halaman-utama .group-374 {
+  border-radius: 3.1rem;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 1.4rem 1.4rem 1.8rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0.5rem 0;
+  width: 15rem;
+  box-sizing: border-box;
+}
+.halaman-utama .gilijet-tour {
+  margin: 0.4rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.halaman-utama .frame-43 {
+  border-radius: 2.8rem;
+  background: #103BE9;
+  position: relative;
+  margin: 0 0 1.6rem 0.3rem;
+  display: flex;
+  padding: 1.6rem 0rem 1.6rem 0;
+  width: 13.3rem;
+  box-sizing: border-box;
+}
+.halaman-utama .choose-3 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #FFFFFF;
+}
+.halaman-utama .departure-tue-10-oct-233 {
+  margin-bottom: 2.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.halaman-utama .group-123 {
+  margin-left: 0.1rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .group-93 {
+  margin-right: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .container-6 {
+  margin: 0 0.9rem 1.1rem 0.2rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #000000;
+}
+.halaman-utama .pelabuhan-ketapang-kt-4 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .group-103 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .container-7 {
+  margin: 0 0.5rem 1.1rem 0.6rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #000000;
+}
+.halaman-utama .gilimanuk-gm-4 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .group-113 {
+  margin: 2.2rem 2rem 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 5.6rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .boat-icon-24-px-4 {
+  margin-bottom: 1.4rem;
+  display: flex;
+  width: 5.6rem;
+  height: 5.6rem;
+  box-sizing: border-box;
+}
+.halaman-utama .layer-17 {
+  width: 5.2rem;
+  height: 1.6rem;
+}
+.halaman-utama .m-3 {
+  margin-left: 0rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .vector-23 {
+  background: #BDBDBD;
+  margin: 3.4rem 2rem 4.8rem 0;
+  width: 4.4rem;
+  height: 0rem;
+}
+.halaman-utama .vector-34 {
+  background: #BDBDBD;
+  margin: 3.4rem 1.4rem 4.8rem 0;
+  width: 4.4rem;
+  height: 0rem;
+}
+.halaman-utama .frame-4 {
+  margin-right: 0.6rem;
+  display: flex;
+  width: 2.3rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.halaman-utama .objects-4 {
+  width: 2.3rem;
+  height: 2.4rem;
+}
+.halaman-utama .logo-1 {
+  margin: 0 10.2rem 15rem 0;
+  width: 5.5rem;
+  height: 3.5rem;
+}
+.halaman-utama .user-login {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #FFFFFF;
+}
+.halaman-utama {
+  background: #F9F9F9;
+  display: flex;
+  padding-bottom: 0rem;
+  width: 90rem;
+  box-sizing: border-box;
+}
+.halaman-utama .login {
+  margin-right: 0.6rem;
+  display: flex;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.halaman-utama .frame-1 {
+  border-radius: 1.6rem;
+  background: #103BE9;
+  margin: 0.6rem 0.9rem 15.6rem 0;
+  display: flex;
+  flex-direction: row;
+  padding: 0.4rem 0.9rem;
+  box-sizing: border-box;
+}
+.halaman-utama .frame-2 {
+  border-radius: 1.6rem;
+  background: #FFFFFF;
+  margin: 0.6rem 0 15.6rem 0;
+  display: flex;
+  padding: 0.4rem 0.9rem;
+  width: 3.4rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.halaman-utama .boat-trip-list {
+  margin: 0.8rem 0.9rem 1.1rem 0;
+  display: inline-block;
+  width: 9.9rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 1.6rem;
+  color: #000000;
+}
+.halaman-utama .close {
+  margin: 0.1rem 0.6rem 0.1rem 0;
+  display: flex;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.halaman-utama .group-14 {
+  border-radius: 2.8rem;
+  margin: 0 0.1rem 1rem 0.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 69.6rem;
+  box-sizing: border-box;
+}
+.halaman-utama .gilijet-express-1 {
+  margin: 0.4rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.halaman-utama .mask-group-5 {
+  border-radius: 0.6rem;
+  background: #E1E7FF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .vector-44 {
+  opacity: 0.1;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 6rem;
+  right: -0.3rem;
+  width: 12.1rem;
+  height: 10rem;
+}
+.halaman-utama .let-journey-begin-with-gilijet-1 {
+  margin: 10rem 1rem 0 0;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 800;
+  font-size: 4.4rem;
+  line-height: 0.977;
+  color: #FFFFFF;
+}
+.halaman-utama .frame-44 {
+  border-radius: 2.8rem;
+  background: #F2F2F2;
+  margin-left: 0.2rem;
+  display: flex;
+  flex-direction: row;
+  padding: 1.1rem 0;
+  width: 12.1rem;
+  box-sizing: border-box;
+}
+.halaman-utama .load-more {
+  margin-top: 0rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .chevrons-right-alt {
+  margin-right: 0.4rem;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.halaman-utama .departure-tue-10-oct-234 {
+  margin-bottom: 2.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.halaman-utama .container-8 {
+  margin: 0 0.9rem 1.1rem 0.1rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #000000;
+}
+.halaman-utama .pelabuhan-ketapang-kt-5 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .vector-24 {
+  background: #BDBDBD;
+  margin: 3.4rem 2rem 4.8rem 0;
+  width: 4.4rem;
+  height: 0rem;
+}
+.halaman-utama .boat-icon-24-px-5 {
+  margin-bottom: 1.4rem;
+  display: flex;
+  width: 5.6rem;
+  height: 5.6rem;
+  box-sizing: border-box;
+}
+.halaman-utama .layer-18 {
+  width: 5.2rem;
+  height: 1.6rem;
+}
+.halaman-utama .m-4 {
+  margin: 0 1.2rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .group-94 {
+  margin-right: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .group-104 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .container-9 {
+  margin: 0 0.4rem 1.1rem 0.6rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #000000;
+}
+.halaman-utama .gilimanuk-gm-5 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .group-114 {
+  margin: 2.2rem 2rem 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.halaman-utama .frame-45 {
+  border-radius: 2.8rem;
+  background: #103BE9;
+  position: relative;
+  margin: 0 0 1.6rem 0.3rem;
+  display: flex;
+  padding: 1.6rem 0rem 1.6rem 0;
+  width: 13.3rem;
+  box-sizing: border-box;
+}
+.halaman-utama .choose-4 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #FFFFFF;
+}
+.halaman-utama .idr-215000-pax-1 {
+  position: relative;
+  margin: 0 0 1rem 0.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 1.9rem;
+  color: #000000;
+}
+.idr-215000-pax-1 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  line-height: 1.333;
+  color: #103BE9;
+}
+.halaman-utama .group-124 {
+  margin-left: 0.1rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .group-13 {
+  box-shadow: 0rem 0rem 1.6rem 0rem rgba(0, 0, 0, 0.15);
+  border-radius: 0.6rem;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0.1rem 0.6rem 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .frame-46 {
+  border-radius: 2.8rem;
+  background: #F2F2F2;
+  display: flex;
+  flex-direction: row;
+  padding: 1.1rem 0;
+  width: 13.3rem;
+  box-sizing: border-box;
+}
+.halaman-utama .change-trip {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .container {
+  margin: 1.9rem 2.3rem 1.6rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.halaman-utama .container-1 {
+  position: relative;
+  display: flex;
+  width: 39.3rem;
+  box-sizing: border-box;
+}
+.halaman-utama .container-2 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .article-and-blog {
+  margin-right: 0.9rem;
+  width: 12.1rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 1.6rem;
+  color: #000000;
+}
+.halaman-utama .more-article {
+  margin-top: 0.4rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .container-3 {
+  background: #103BE9;
+  position: relative;
+  display: flex;
+  padding: 14.3rem 2.6rem 16.6rem 2.6rem;
+  width: 38.8rem;
+  box-sizing: border-box;
+}
+.halaman-utama .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 27.9rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .frame-13 {
+  position: absolute;
+  left: 50%;
+  top: 27.1rem;
+  translate: -50% 0;
+  width: 90rem;
+  height: 11.6rem;
+}
+.halaman-utama .balis-cultural-center-blend-of-art-spirituality-lifestyle-culinary-delights {
+  margin: 0 1.2rem 0 0.9rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.halaman-utama .ubud {
+  opacity: 0.8;
+  mix-blend-mode: hard-light;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 4.3rem;
+  color: #FFFFFF;
+}
+.halaman-utama .oct-1020233 {
+  position: absolute;
+  left: 0.9rem;
+  bottom: 1.1rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 0.9rem;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama .container-5 {
+  margin: 5.2rem 0 11.3rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .container-7 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .container-8 {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 25.3rem;
+  box-sizing: border-box;
+}
+.halaman-utama .container-9 {
+/*  background: url('../assets/images/rectangle_8.png') 50% / cover no-repeat;*/
+  position: relative;
+  margin-bottom: 18.2rem;
+  display: flex;
+  flex-direction: row;
+  padding: 1.8rem 0 20.3rem 0;
+  width: 90rem;
+  box-sizing: border-box;
+}
+.halaman-utama .container-10 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.halaman-utama .container-11 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 3.1rem 0.7rem 4.9rem 0;
+  width: 51.1rem;
+  box-sizing: border-box;
+}
+.halaman-utama .container-12 {
+  margin: 0.2rem 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.halaman-utama .container-13 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama .container-14 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.halaman-utama .container-15 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 39.3rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .container-16 {
+  border-radius: 0.6rem;
+  background: url('../assets/images/rectangle_131.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 0.9rem;
+  display: flex;
+  padding: 3.6rem 0.7rem 3.6rem 0;
+  width: 16.8rem;
+  box-sizing: border-box;
+}
+.halaman-utama .container-17 {
+  margin: 1.9rem 2.3rem 1.6rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.halaman-utama .container-18 {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 22.2rem;
+  box-sizing: border-box;
+}
+.halaman-utama .container-19 {
+  border-radius: 0.6rem;
+  border: 0.1rem solid #F2F2F2;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.6rem 1rem 1.5rem 0.9rem;
+  width: 19.1rem;
+  box-sizing: border-box;
+}
+.halaman-utama .container-20 {
+  margin: 0 5.9rem 2.6rem 2.8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 66.6rem;
+  box-sizing: border-box;
+}
+.halaman-utama .container-21 {
+  margin: 1.9rem 2.3rem 1.6rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.halaman-utama .container-22 {
+  margin: 1.9rem 2.3rem 1.6rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.halaman-utama .container-23 {
+  border-radius: 18.9rem;
+  background: linear-gradient(rgba(16, 59, 233, 0.3), rgba(16, 59, 233, 0.3)), url('../assets/images/ellipse_3.png');
+  position: relative;
+  margin-right: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 37.9rem;
+}
+.halaman-utama .container-24 {
+  border-radius: 0.6rem;
+  background: url('../assets/images/rectangle_13.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 0.9rem;
+  display: flex;
+  padding: 3.6rem 0.1rem 3.6rem 0;
+  width: 16.8rem;
+  box-sizing: border-box;
+}
+.halaman-utama .container-25 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .container-26 {
+  margin: 1.9rem 2.3rem 1.6rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.halaman-utama .container-27 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama .contact-us {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1rem;
+  color: #FFFFFF;
+}
+.halaman-utama .vector-295 {
+  width: 0.5rem;
+  height: 1rem;
+}
+.halaman-utama .instagram {
+  width: 1rem;
+  height: 1rem;
+}
+.halaman-utama .all-rights-reserved {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 0.8rem;
+  color: var(--cold-greywhite, #FFFFFF);
+}
+.halaman-utama .vector-296 {
+  width: 0.4rem;
+  height: 0.9rem;
+}
+.halaman-utama .calendar-add-1 {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.halaman-utama .people-1 {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.halaman-utama .vector-338 {
+  width: 1.3rem;
+  height: 1.1rem;
+}
+.halaman-utama .vector-339 {
+  width: 1.1rem;
+  height: 1.3rem;
+}
+.halaman-utama .vector-340 {
+  width: 1.1rem;
+  height: 1.3rem;
+}
+.halaman-utama .search-normal-1 {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.halaman-utama .login-1 {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.halaman-utama .profile-circle {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.halaman-utama .exclude {
+  width: 1.2rem;
+  height: 1.3rem;
+}
+.halaman-utama .container-28 {
+  position: absolute;
+  left: -11.2rem;
+  bottom: -9.3rem;
+  display: flex;
+  flex-direction: row;
+  width: 79.1rem;
+  height: 37.9rem;
+  box-sizing: border-box;
+}

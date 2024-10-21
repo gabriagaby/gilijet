@@ -1,0 +1,676 @@
+.payment .logo {
+  width: 88.4px;
+  height: 56px;
+}
+.payment .en {
+  margin-right: 15px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.payment .path {
+  border-radius: 2px;
+  width: 12px;
+  height: 6px;
+}
+.payment .chevron-down-alt {
+  margin: 6px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.payment .group-39 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.payment .help-contact {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.payment .container-7 {
+  margin: 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 242.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.payment .group-40 {
+  margin: 0 0.2px 40px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1116px;
+  box-sizing: border-box;
+}
+.payment .path-2 {
+  border-radius: 2px;
+  width: 15px;
+  height: 15px;
+}
+.payment .chevron-down-alt-1 {
+  margin: 4px 0 20px 281px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.payment .vector-5 {
+  background: #BDBDBD;
+  margin: 0 43.2px 17px 34.7px;
+  width: 848.5px;
+  height: 2px;
+}
+.payment .customer {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  color: #000000;
+}
+.payment .group-42 {
+  display: flex;
+  box-sizing: border-box;
+}
+.payment .trip-details {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  color: #000000;
+}
+.payment .group-43 {
+  display: flex;
+  box-sizing: border-box;
+}
+.payment .payment-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  color: #000000;
+}
+.payment .group-44 {
+  display: flex;
+  box-sizing: border-box;
+}
+.payment .confirmation {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: #D1D3D3;
+}
+.payment .group-45 {
+  display: flex;
+  box-sizing: border-box;
+}
+.payment .container-4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 926.4px;
+  box-sizing: border-box;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.payment .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 926.4px;
+  box-sizing: border-box;
+  top: 0px;
+  bottom: 0px;
+  margin-bottom: 0px;
+  height: 80px;
+}
+.payment .vector-6 {
+  background: #00AEEF;
+  position: absolute;
+  left: 135px;
+  bottom: 42px;
+  width: 565px;
+  height: 2px;
+}
+.payment .path-1 {
+  border-radius: 2px;
+  width: 10px;
+  height: 7px;
+}
+.payment .check-alt {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.payment .group-41 {
+  border-radius: 16px;
+  background: #00AEEF;
+  position: absolute;
+  left: 119px;
+  bottom: 28px;
+  display: flex;
+  padding: 13px 11px 12px 11px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.payment .path-3 {
+  border-radius: 2px;
+  width: 10px;
+  height: 7px;
+}
+.payment .check-alt-1 {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.payment .group-411 {
+  border-radius: 16px;
+  background: #00AEEF;
+  position: absolute;
+  left: 401px;
+  bottom: 28px;
+  display: flex;
+  padding: 13px 11px 12px 11px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.payment .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.payment .group-412 {
+  border-radius: 16px;
+  background: #00AEEF;
+  position: absolute;
+  right: 401px;
+  bottom: 28px;
+  display: flex;
+  padding: 7px 11.1px;
+  box-sizing: border-box;
+  width: 32px;
+  height: 32px;
+}
+.payment .container {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  color: #BDBDBD;
+}
+.payment .group-413 {
+  border-radius: 16px;
+  background: #FFFFFF;
+  position: absolute;
+  right: 119px;
+  bottom: 28px;
+  display: flex;
+  padding: 6px 10px;
+  box-sizing: border-box;
+  height: 32px;
+  width: 32px;
+  border: solid;
+  border-width: 1px;
+  border-color: #BDBDBD;
+  padding-left: 10px;
+  padding-top: 6px;
+}
+.payment .group-46 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 6px 89.3px 7px 100.3px;
+  box-sizing: border-box;
+  width: 1116px;
+  height: 93px;
+}
+.payment .container-2 {
+  background: #103BE9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 29px 0 40px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.payment .rectangle-1041 {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 1116px;
+  height: 188px;
+}
+.payment .booking-code {
+  margin: 0 7.5px 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.payment .glj-72691 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.payment .group-67 {
+  position: relative;
+  margin: 2px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.payment .gilijet-express-1-passangers {
+  margin-bottom: 18px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24.1px;
+  color: #FFFFFF;
+  padding-right: 0px;
+  margin-right: 10px;
+}
+.gilijet-express-1-passangers-sub-4 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24.1px;
+  line-height: 1.333;
+  padding-right: 0px;
+  width: 171px;
+}
+.payment .idr-215000 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24.1px;
+  color: #FFFFFF;
+}
+.payment .group-68 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.payment .container-6 {
+  background: #00AEEF;
+  position: relative;
+  margin-bottom: 39px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 40px 52.7px 43px 54px;
+  width: 1116px;
+  box-sizing: border-box;
+}
+.payment .payment-2 {
+  margin: 0 53px 19px 53px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+.payment .choose-apayment-method-that-makes-it-easy {
+  margin: 0 54px 69px 54px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.payment .image-2 {
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  width: 179.3px;
+  height: 47.5px;
+}
+.payment .group-61 {
+  border-radius: 10px;
+  border: 1px solid #103BE9;
+  background: #E1E7FF;
+  position: relative;
+  display: flex;
+  padding: 44px 0 45.5px 27.34px;
+  box-sizing: border-box;
+  width: 233px;
+  height: 137px;
+}
+.payment .image-3 {
+  background: url('../assets/images/image_3.png') 50% / cover no-repeat;
+  width: 143px;
+  height: 88.9px;
+}
+.payment .group-62 {
+  border-radius: 10px;
+  border: 1px solid #D1D3D3;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 24px 0 24.1px 45px;
+  width: 233px;
+  height: 137px;
+  box-sizing: border-box;
+}
+.payment .image-4 {
+  background: url('../assets/images/image_4.png') 50% / cover no-repeat;
+  width: 169.8px;
+  height: 55px;
+}
+.payment .group-63 {
+  border-radius: 10px;
+  border: 1px solid #D1D3D3;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 41px 0 41px 32px;
+  width: 233px;
+  height: 137px;
+  box-sizing: border-box;
+}
+.payment .image-5 {
+  background: url('../assets/images/image_5.png') 50% / cover no-repeat;
+  width: 206px;
+  height: 44.9px;
+}
+.payment .group-64 {
+  border-radius: 10px;
+  border: 1px solid #D1D3D3;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 46px 14px 46px 13px;
+  width: 233px;
+  height: 137px;
+  box-sizing: border-box;
+}
+.payment .container-1 {
+  margin: 0 52px 54px 54px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 26px;
+  width: 1010px;
+  box-sizing: border-box;
+}
+.payment .you-chose-paypal-for-your-payment {
+  margin: 0 55px 30px 55px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+.payment .email {
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.payment .irfandigitalgmail-com {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 25px;
+  color: #000000;
+}
+.payment .group-49 {
+  border-radius: 15px;
+  background: #F2F2F2;
+  position: relative;
+  padding: 24px 16px 25px 16px;
+  box-sizing: border-box;
+  width: 989px;
+  height: 79px;
+}
+.payment .group-57 {
+  border-radius: 15px;
+  margin: 0 72px 25px 55px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.payment .password {
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.payment .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 25px;
+  color: #000000;
+}
+.payment .group-491 {
+  border-radius: 15px;
+  background: #F2F2F2;
+  position: relative;
+  padding: 24px 16px 25px 16px;
+  width: 989px;
+  height: 79px;
+  box-sizing: border-box;
+}
+.payment .group-65 {
+  border-radius: 15px;
+  margin: 0 72px 47px 55px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.payment .login {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+  margin-left: 73px;
+}
+.payment .frame-6 {
+  border-radius: 44.1px;
+  background: #103BE9;
+  margin: 0 55px;
+  display: flex;
+  align-self: flex-start;
+  padding: 25px 0.2px 25px 0;
+  width: 198px;
+  box-sizing: border-box;
+}
+.payment .container {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 55px;
+  box-sizing: border-box;
+}
+.payment .vector-7 {
+  background: #D1D3D3;
+  position: absolute;
+  left: 50%;
+  top: 342px;
+  translate: -50% 0;
+  width: 1117px;
+  height: 0px;
+}
+.payment .vector-8 {
+  background: #D1D3D3;
+  position: absolute;
+  left: 50%;
+  top: 188px;
+  translate: -50% 0;
+  width: 1117px;
+  height: 0px;
+}
+.payment .group-56 {
+  position: relative;
+  margin: 0 0 59px 1px;
+  display: flex;
+  padding-right: 1px;
+  box-sizing: border-box;
+}
+.payment .previous {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+  margin-left: 197px;
+}
+.payment .frame-5 {
+  border-radius: 44.1px;
+  background: #BDBDBD;
+  margin-right: 38px;
+  display: flex;
+  padding: 25px 0px 25px 0;
+  width: 475px;
+  box-sizing: border-box;
+}
+.payment .continue {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+  margin-left:194.5px;
+}
+.payment .frame-4 {
+  border-radius: 44.1px;
+  background: #103BE9;
+  display: flex;
+  padding: 25px 0.8px 25px 0;
+  width: 475px;
+  box-sizing: border-box;
+}
+.payment .group-66 {
+  border-radius: 44.1px;
+  margin: 0 16px 28px 0;
+  display: flex;
+  flex-direction: row;
+  width: 988px;
+  box-sizing: border-box;
+}
+.payment .rectangle-97 {
+  position: absolute;
+  left: 0px;
+  top: 95.5px;
+  width: 1440px;
+  height: 159px;
+}
+.payment .rectangle-96 {
+  position: absolute;
+  left: 50%;
+  top: 118.5px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 162px;
+}
+.payment .rectangle-95 {
+  position: absolute;
+  left: 50%;
+  top: 132.5px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 148px;
+}
+.payment .logo-1 {
+  position: relative;
+  margin: 0 0 43px 0px;
+  align-self: center;
+  width: 209.9px;
+  height: 133px;
+}
+.payment .all-rights-reserved {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 12px;
+  color: var(--cold-greywhite, #FFFFFF);
+}
+.payment .copyright {
+  margin-top: 4.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.payment .let-journey-begin-with-gilijet {
+  margin-bottom: 2.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.payment .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 779.7px;
+  box-sizing: border-box;
+  left:35px;
+}
+.payment .footer-30 {
+  background: #103BE9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 66px 0 20.5px 0px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.payment {
+  background: #F9F9F9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+.output-password{
+  font-size: 25px;
+  padding-top: 0px;
+  color: #000000;
+  font-weight: 500;
+  font-family: 'Inter';
+}

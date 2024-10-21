@@ -1,0 +1,812 @@
+.confirmations .logo {
+  width: 88.4px;
+  height: 56px;
+}
+.confirmations .en {
+  margin-right: 15px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.confirmations .path {
+  border-radius: 2px;
+  width: 12px;
+  height: 6px;
+}
+.confirmations .chevron-down-alt {
+  margin: 9px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.confirmations .group-39 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.confirmations .help-contact {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.confirmations .container-1 {
+  margin: 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 242.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.confirmations .group-40 {
+  margin: 0 0.2px 40px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1116px;
+  box-sizing: border-box;
+}
+.confirmations .path-3 {
+  border-radius: 2px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-right: 0px;
+  position: absolute;
+  left: 874px;
+  width: 15px;
+  height: 15px;
+  top: 10px;
+}
+.confirmations .chevron-down-alt-1 {
+  margin: 10px 0px 12px 0px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.confirmations .vector-5 {
+  background: #BDBDBD;
+  margin: 0 44.1px 17px 34.7px;
+  width: 848.5px;
+  height: 0px;
+}
+.confirmations .customer {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  color: #000000;
+}
+.confirmations .group-42 {
+  display: flex;
+  box-sizing: border-box;
+}
+.confirmations .trip-details {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  color: #000000;
+}
+.confirmations .group-43 {
+  display: flex;
+  box-sizing: border-box;
+}
+.confirmations .payment {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  color: #000000;
+}
+.confirmations .group-44 {
+  display: flex;
+  box-sizing: border-box;
+}
+.confirmations .confirmation {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  color: #000000;
+}
+.confirmations .group-45 {
+  display: flex;
+  box-sizing: border-box;
+}
+.confirmations .container-4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 927.3px;
+  box-sizing: border-box;
+  padding-top:3px;
+}
+.confirmations .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 927.3px;
+  height: fit-content;
+  box-sizing: border-box;
+  margin-bottom: 0px;
+}
+.confirmations .vector-6 {
+  background: #00AEEF;
+  position: absolute;
+  left: 50%;
+  bottom: 42px;
+  translate: -50% 0;
+  width: 846px;
+  height: 2px;
+}
+.confirmations .path-1 {
+  border-radius: 2px;
+  width: 10px;
+  height: 7px;
+}
+.confirmations .check-alt {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.confirmations .group-41 {
+  border-radius: 16px;
+  background: #00AEEF;
+  position: absolute;
+  left: 119px;
+  bottom: 28px;
+  display: flex;
+  padding: 12px 11px 13px 11px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.confirmations .path-2 {
+  border-radius: 2px;
+  width: 10px;
+  height: 7px;
+}
+.confirmations .check-alt-1 {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.confirmations .group-411 {
+  border-radius: 16px;
+  background: #00AEEF;
+  position: absolute;
+  left: 401px;
+  bottom: 28px;
+  display: flex;
+  padding: 13px 11px 12px 11px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.confirmations .path-4 {
+  border-radius: 2px;
+  width: 10px;
+  height: 7px;
+}
+.confirmations .check-alt-2 {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.confirmations .group-412 {
+  border-radius: 16px;
+  background: #00AEEF;
+  position: absolute;
+  right: 401px;
+  bottom: 28px;
+  display: flex;
+  padding: 13px 11px 12px 11px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.confirmations .container {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.confirmations .group-413 {
+  border-radius: 16px;
+  background: #00AEEF;
+  position: absolute;
+  right: 119px;
+  bottom: 28px;
+  display: flex;
+  padding: 7px 11px;
+  box-sizing: border-box;
+  width: 32px;
+  height: 32px;
+}
+.confirmations .group-46 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 0px 88.4px 0px 100.3px;
+  box-sizing: border-box;
+  padding-top: 0px;
+  width: 1116px;
+  height: 93px;
+}
+.confirmations .container-3 {
+  background: #103BE9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 29px 0 40px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.confirmations .reservation-status {
+  margin-right: 21.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+.confirmations .awaiting-payment {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 30px;
+  color: #FFB700;
+}
+.confirmations .container-5 {
+  margin: 0 42px 30px 42px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.confirmations .order-number-4654132132132 {
+  margin: 0 42px 20px 42px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #000000;
+}
+.confirmations .reservation-info {
+  margin: 0 43px 42px 43px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #BDBDBD;
+}
+.confirmations .vector-71 {
+  background: #D1D3D3;
+  width: 657px;
+  height: 1px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  position: absolute;
+  top: 295px;
+}
+.confirmations .you-choose-to-pay-with-paypal {
+  margin: 29px 53px 19px 53px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+.confirmations .choose-apayment-method-that-makes-it-easy {
+  margin: 0 54px 30px 54px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.confirmations .image-2 {
+  background: url('../assets/images/image_2.png');
+  width: 69.7px;
+  height: 79.4px;
+  background-size: auto 79.41px;
+  background-repeat: no-repeat;
+  margin-left: 32px;
+}
+.confirmations .group-69 {
+  border-radius: 10px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 39px;
+  display: flex;
+  padding: 29px 0 28.6px 3.4px;
+  width: 137px;
+  height: 137px;
+  box-sizing: border-box;
+}
+.confirmations .paypal-balance {
+  margin-bottom: 11px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 29.1px;
+  color: #000000;
+}
+.confirmations .idr-1000000 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 40px;
+  color: #000000;
+}
+.confirmations .container-8 {
+  margin: 21px 0 22px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.confirmations .group-77 {
+  margin: 0 54px 189px 54px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.confirmations .previous {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+  margin-left: 100px;
+}
+.confirmations .frame-5 {
+  border-radius: 44.1px;
+  background: #BDBDBD;
+  margin-right: 21px;
+  display: flex;
+  padding: 25px 0px 25px 0;
+  width: 281px;
+  box-sizing: border-box;
+}
+.confirmations .checkout {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+  margin-left: 95px;
+}
+.confirmations .frame-4 {
+  border-radius: 44.1px;
+  background: #103BE9;
+  display: flex;
+  padding: 25px 0.6px 25px 0;
+  width: 281px;
+  box-sizing: border-box;
+}
+.confirmations .container-6 {
+  margin: 0 19px 0 55px;
+  display: flex;
+  flex-direction: row;
+  width: 583px;
+  box-sizing: border-box;
+}
+.confirmations .group-56 {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 19px;
+  display: flex;
+  flex-direction: column;
+  padding: 41px 37px 47px 0;
+  box-sizing: border-box;
+  width: 694px;
+  height: 886px;
+}
+.confirmations .booking-code {
+  margin: 0 7.5px 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+.confirmations .glj-72691 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 45px;
+  color: #103BE9;
+}
+.confirmations .group-67 {
+  margin: 0 31px 30px 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.confirmations .vector-9 {
+  background: #D1D3D3;
+  margin-bottom: 36px;
+  width: 403px;
+  height: 1px;
+}
+.confirmations .departure-tour {
+  margin: 0 31px 13px 31px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #BDBDBD;
+}
+.confirmations .layer-1 {
+  width: 46.4px;
+  height: 14.6px;
+}
+.confirmations .boat-icon-24-px {
+  margin: 5.7px 14.6px 3.7px 0;
+  display: flex;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.confirmations .pelabuhan-ketapang-kt {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.confirmations .group-71 {
+  margin: 0 33.1px 0px 33.1px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  box-sizing: border-box;
+  width: 310px;
+  height: 50px;
+}
+.confirmations .vector-10 {
+  background: #D1D3D3;
+  margin: 0 291px 13px 0;
+  align-self: center;
+  width: 1px;
+  height: 36px;
+}
+.confirmations .layer-11 {
+  width: 46.4px;
+  height: 14.6px;
+}
+.confirmations .boat-icon-24-px-1 {
+  margin: 5.7px 14.6px 3.7px 0;
+  display: flex;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.confirmations .gilimanuk-gm {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.confirmations .group-70 {
+  margin: 0 33.1px 21px 31px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  box-sizing: border-box;
+  width: 214px;
+  height: 50px;
+}
+.confirmations .tue-10-oct-2023 {
+  margin-right: 12px;
+  width: 163px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #BDBDBD;
+}
+.confirmations .pm {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #BDBDBD;
+}
+.confirmations .container-9 {
+  margin: 0 32px 41px 34px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 337px;
+  box-sizing: border-box;
+}
+.confirmations .vector-7 {
+  background: #D1D3D3;
+  margin-bottom: 27px;
+  width: 403px;
+  height: 1px;
+}
+.confirmations .boat {
+  margin-right: 12px;
+  width: 44px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.confirmations .gilijet-express {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.confirmations .group-72 {
+  margin: 0 32px 18px 31px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 340px;
+  box-sizing: border-box;
+}
+.confirmations .passangers {
+  margin-right: 12px;
+  width: 110px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+  height: 24px;
+  width: 121px;
+}
+.confirmations .mature {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.confirmations .group-73 {
+  margin: 0 32px 18px 31px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 340px;
+  box-sizing: border-box;
+}
+.confirmations .duration {
+  margin-right: 12px;
+  width: 81px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.confirmations .minutes {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.confirmations .group-74 {
+  margin: 0 32px 18px 31px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 340px;
+  box-sizing: border-box;
+}
+.confirmations .sub-total {
+  margin-right: 12px;
+  width: 89px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.confirmations .idr-2150001 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.confirmations .group-75 {
+  margin: 0 32px 14px 31px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 340px;
+  box-sizing: border-box;
+}
+.confirmations .vector-68 {
+  width: 20px;
+  height: 16.3px;
+}
+.confirmations .ticket-discount {
+  margin: 3.9px 17px 3.9px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.confirmations .enter-cupon-discount-here {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #AEBEFF;
+}
+.confirmations .group-76 {
+  border-radius: 10px;
+  border: 1px solid #103BE9;
+  background: #E1E7FF;
+  position: relative;
+  margin: 14px 27px 28px 32px;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0 12px 12px;
+  width: 344px;
+  box-sizing: border-box;
+}
+.confirmations .vector-8 {
+  background: #D1D3D3;
+  margin-bottom: 17px;
+  width: 403px;
+  height: 0px;
+}
+.confirmations .total {
+  margin: 0 31px 9px 31px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 25px;
+  color: #000000;
+}
+.confirmations .idr-215000 {
+  margin: 0 27px;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 35px;
+  color: #103BE9;
+}
+.confirmations .group-138 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 41px 0 64px 0;
+  box-sizing: border-box;
+}
+.confirmations .container-7 {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.confirmations .rectangle-97 {
+  position: absolute;
+  left: 0px;
+  top: 95.5px;
+  width: 1440px;
+  height: 159px;
+}
+.confirmations .rectangle-96 {
+  position: absolute;
+  left: 50%;
+  top: 118.5px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 162px;
+}
+.confirmations .rectangle-95 {
+  position: absolute;
+  left: 50%;
+  top: 132.5px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 148px;
+}
+.confirmations .logo-1 {
+  position: relative;
+  margin: 0 0 43px 0px;
+  align-self: center;
+  width: 209.9px;
+  height: 133px;
+}
+.confirmations .all-rights-reserved {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 12px;
+  color: var(--cold-greywhite, #FFFFFF);
+}
+.confirmations .copyright {
+  margin-top: 4.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.confirmations .let-journey-begin-with-gilijet {
+  margin-bottom: 2.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  color: #FFFFFF;
+  margin-left: 0px;
+  position: absolute;
+  width: 184px;
+  left: 611px;
+}
+.confirmations .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 779.7px;
+  box-sizing: border-box;
+}
+.confirmations .footer-30 {
+  background: #103BE9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 66px 0 20.5px 32px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.confirmations {
+  background: #F9F9F9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}

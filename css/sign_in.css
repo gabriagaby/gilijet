@@ -1,0 +1,298 @@
+.sign-in .welcome-to {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 21px;
+  color: #000000;
+}
+.sign-in .logo {
+  margin-bottom: 59px;
+  align-self: flex-start;
+  width: 120px;
+  height: 77px;
+}
+.sign-in .sign-in-1 {
+  margin-bottom: 37px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 55px;
+  color: #000000;
+}
+.sign-in .enter-your-email-address {
+  margin-bottom: 14.7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.sign-in .email-address {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 14px;
+  color: #808080;
+}
+.sign-in .container-2 {
+  border-radius: 9px;
+  border: 1px solid #BDBDBD;
+  background: #FFFFFF;
+  position: relative;
+  padding: 19.3px 25.4px 22.7px 25.4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-in .group-54 {
+  margin-bottom: 23.3px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-in .enter-your-password {
+  margin-bottom: 14.7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.sign-in .password {
+  margin: 2px 8px 6px 0;
+  display: inline-block;
+  width: 307.4px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 14px;
+  color: #808080;
+}
+.sign-in .vuesaxboldeye-slash {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 603px;
+  top: 608px;
+  margin-top: 0px;
+}
+.sign-in .eye-slash {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.sign-in .container-1 {
+  border-radius: 9px;
+  border: 1px solid #ADADAD;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 17.4px 16px 16.6px 25.4px;
+  width: 459px;
+  box-sizing: border-box;
+}
+.sign-in .group-83 {
+  margin-bottom: 26.4px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-in .check-square {
+  margin-right: 9px;
+  width: 24px;
+  height: 24px;
+}
+.sign-in .remember-me {
+  margin: 3px 0 6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 0.977;
+  color: #000000;
+}
+.sign-in .group-34 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.sign-in .forgot-password {
+  margin: 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: #103BE9;
+}
+.sign-in .container-4 {
+  margin: 0 0.5px 26px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 458.5px;
+  box-sizing: border-box;
+}
+.sign-in .login {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+  margin-left: 210px;
+}
+.sign-in .group-56 {
+  border-radius: 10px;
+  background: #103BE9;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  padding: 18.5px 0 17.5px 1px;
+  width: 459px;
+  box-sizing: border-box;
+}
+.sign-in .you-dont-have-account {
+  margin: 0 0 13px 8.5px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: #103BE9;
+}
+.sign-in .register {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+  margin-left: 200px;
+}
+.sign-in .group-57 {
+  border-radius: 10px;
+  background: #00AEEF;
+  position: relative;
+  display: flex;
+  padding: 18.5px 0 17.5px 1px;
+  width: 459px;
+  box-sizing: border-box;
+}
+.sign-in .group-61 {
+  margin-bottom: 90px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-in .all-rights-reserved {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 12px;
+  color: #103BE9;
+}
+.sign-in .copyright {
+  margin: 1px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.sign-in .let-journey-begin-with-gilijet {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  color: #103BE9;
+}
+.sign-in .group-81 {
+  margin-right: 0.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 459px;
+  box-sizing: border-box;
+}
+.sign-in .container-3 {
+  margin: 149px 99px 43px 162px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  margin-left: 162px;
+  width: 459px;
+  height: 725px;
+}
+.sign-in .lets-trip-around-bali-with-gilijet {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 73px;
+  color: #FFFFFF;
+}
+.sign-in .container {
+  background: url('../assets/images/rectangle_8.png'), linear-gradient(#103BE9, #103BE9);
+  position: relative;
+  display: flex;
+  padding: 153px 154.8px 0 0;
+  width: 720px;
+  height: 1024px;
+  box-sizing: border-box;
+  background-size: auto 1024px;
+  background-repeat: no-repeat;
+}
+.sign-in {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  width: 1440px;
+  height: 1024px;
+  box-sizing: border-box;
+}
+.input-email-address{
+  height: 58px;
+  width: 459px;
+  border: solid;
+  border-width: 1px;
+  border-radius: 9px;
+  border-color: #BDBDBD;
+  margin-left: 0px;
+  padding-left: 25.44px;
+}
+.input-password{
+  height: 58px;
+  width: 459px;
+  border: solid;
+  border-width: 1px;
+  border-radius: 9px;
+  border-color: #BDBDBD;
+  margin-left: 0px;
+  padding-left: 25.44px;
+}
+
+::placeholder {
+  color: #808080;
+}
+.input-checkbox{
+  width: 18px;
+    height: 18px;
+  border: solid;
+  border-width: 2px;
+  border-radius: 2px;
+  border-color: #BDBDBD;
+  position: absolute;
+  margin-left: 0px;
+  margin-right: 0px;
+}

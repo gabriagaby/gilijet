@@ -1,0 +1,807 @@
+.login-first .logo {
+  width: 88.4px;
+  height: 56px;
+}
+.login-first .en {
+  margin-right: 15px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.login-first .path {
+  border-radius: 2px;
+  width: 12px;
+  height: 6px;
+}
+.login-first .chevron-down-alt {
+  margin: 9px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.login-first .group-39 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.login-first .help-contact {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.login-first .container-8 {
+  margin: 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 242.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-first .group-40 {
+  margin: 0 0.2px 40px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1116px;
+  box-sizing: border-box;
+}
+.login-first .vector-5 {
+  background: #BDBDBD;
+  position: absolute;
+  left: 50%;
+  bottom: 42px;
+  translate: -50% 0;
+  width: 848.5px;
+  height: 0px;
+}
+.login-first .path-1 {
+  border-radius: 2px;
+  width: 12px;
+  height: 6px;
+}
+.login-first .chevron-down-alt-1 {
+  margin: 0 28.7px 12px 28.7px;
+  display: flex;
+  align-self: flex-start;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.login-first .container {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.login-first .group-41 {
+  border-radius: 16px;
+  background: #00AEEF;
+  position: relative;
+  margin: 0 18.7px 3px 18.7px;
+  display: flex;
+  align-self: flex-start;
+  padding: 7px 12.4px;
+  box-sizing: border-box;
+}
+.login-first .customer {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  color: #000000;
+}
+.login-first .group-42 {
+  display: flex;
+  box-sizing: border-box;
+}
+.login-first .trip-details {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: #D1D3D3;
+}
+.login-first .group-43 {
+  display: flex;
+  box-sizing: border-box;
+}
+.login-first .payment {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: #D1D3D3;
+}
+.login-first .group-44 {
+  display: flex;
+  box-sizing: border-box;
+}
+.login-first .confirmation {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: #D1D3D3;
+}
+.login-first .group-45 {
+  display: flex;
+  box-sizing: border-box;
+}
+.login-first .container-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 926.4px;
+  box-sizing: border-box;
+}
+.login-first .container-9 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.login-first .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  color: #BDBDBD;
+}
+.login-first .group-411 {
+  border-radius: 16px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 401px;
+  bottom: 28px;
+  display: flex;
+  padding: 7px 11.3px;
+  box-sizing: border-box;
+}
+.login-first .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  color: #BDBDBD;
+}
+.login-first .group-412 {
+  border-radius: 16px;
+  background: #FFFFFF;
+  position: absolute;
+  right: 401px;
+  bottom: 28px;
+  display: flex;
+  padding: 7px 11.1px;
+  box-sizing: border-box;
+}
+.login-first .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  color: #BDBDBD;
+}
+.login-first .group-413 {
+  border-radius: 16px;
+  background: #FFFFFF;
+  position: absolute;
+  right: 119px;
+  bottom: 28px;
+  display: flex;
+  padding: 7px 11px;
+  box-sizing: border-box;
+}
+.login-first .group-46 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 15px 89.3px 7px 100.3px;
+  box-sizing: border-box;
+}
+.login-first .container-10 {
+  background: #103BE9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 29px 0 40px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.login-first .path-4 {
+  border-radius: 2.9px;
+  width: 17.5px;
+  height: 8.8px;
+}
+.login-first .chevron-down-alt-4 {
+  margin: 6.7px 0 5.8px 0;
+  display: flex;
+  width: 35px;
+  height: 35px;
+  box-sizing: border-box;
+}
+.login-first .back-to-home {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.login-first .group-57 {
+  margin: 0 13.1px 42px 13.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 218px;
+  box-sizing: border-box;
+}
+.login-first .order-detail {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+.login-first .name {
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.login-first .type-your-name {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.login-first .rectangle-1034 {
+  border-radius: 15px;
+  border: 2px solid #D9D9D9;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 989px;
+  height: 79px;
+}
+.login-first .group-49 {
+  border-radius: 15px;
+  position: relative;
+  padding: 24px 16px 25px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-first .group-50 {
+  border-radius: 15px;
+  margin: 0 1px 25px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-first .email {
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.login-first .type-your-email {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.login-first .rectangle-1035 {
+  border-radius: 15px;
+  border: 2px solid #D9D9D9;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 989px;
+  height: 79px;
+}
+.login-first .group-491 {
+  border-radius: 15px;
+  position: relative;
+  padding: 24px 16px 25px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-first .group-52 {
+  border-radius: 15px;
+  margin: 0 1px 25px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-first .no-telp {
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.login-first .type-your-phone-number {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.login-first .rectangle-1036 {
+  border-radius: 15px;
+  border: 2px solid #D9D9D9;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 989px;
+  height: 79px;
+}
+.login-first .group-492 {
+  border-radius: 15px;
+  position: relative;
+  padding: 24px 16px 25px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-first .group-53 {
+  border-radius: 15px;
+  margin: 0 1px 73px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-first .passanger-info-1 {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+.login-first .id-type {
+  margin-right: 15px;
+  width: 90px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.login-first .no-id {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.login-first .container-4 {
+  margin: 0 2px 13px 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 328.2px;
+  box-sizing: border-box;
+}
+.login-first .passport {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 25px;
+  color: #000000;
+}
+.login-first .path-2 {
+  border-radius: 2.9px;
+  width: 17.5px;
+  height: 8.8px;
+}
+.login-first .chevron-down-alt-2 {
+  display: flex;
+  width: 35px;
+  height: 35px;
+  box-sizing: border-box;
+}
+.login-first .container-6 {
+  border-radius: 15px;
+  border: 2px solid #D9D9D9;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  padding: 35.1px 22.8px;
+  width: 233px;
+  height: 79px;
+  box-sizing: border-box;
+}
+.login-first .group-47 {
+  position: relative;
+  margin-right: 25px;
+  padding: 24px 16px 25px 16px;
+  width: 233px;
+  box-sizing: border-box;
+}
+.login-first .type-your-id-number {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.login-first .rectangle-1031 {
+  border-radius: 15px;
+  border: 2px solid #D9D9D9;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 732px;
+  height: 79px;
+}
+.login-first .group-48 {
+  border-radius: 15px;
+  position: relative;
+  padding: 24px 16px 25px 16px;
+  width: 732px;
+  box-sizing: border-box;
+}
+.login-first .container-5 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-first .group-51 {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-first .full-name {
+  margin: 0 2px 13px 2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.login-first .type-your-id-number-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.login-first .rectangle-1032 {
+  border-radius: 15px;
+  border: 2px solid #D9D9D9;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 989px;
+  height: 79px;
+}
+.login-first .group-481 {
+  border-radius: 15px;
+  position: relative;
+  padding: 24px 16px 25px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-first .group-54 {
+  border-radius: 15px;
+  margin: 0 1px 25px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-first .passanger-type {
+  margin: 0 2px 13px 2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.login-first .mature {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 25px;
+  color: #000000;
+}
+.login-first .path-3 {
+  border-radius: 2.9px;
+  width: 17.5px;
+  height: 8.8px;
+}
+.login-first .chevron-down-alt-3 {
+  display: flex;
+  width: 35px;
+  height: 35px;
+  box-sizing: border-box;
+}
+.login-first .container-1 {
+  border-radius: 15px;
+  border: 2px solid #D9D9D9;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  padding: 35.1px 31.8px;
+  width: 989px;
+  height: 79px;
+  box-sizing: border-box;
+}
+.login-first .group-482 {
+  position: relative;
+  padding: 24px 16px 25px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-first .group-55 {
+  margin: 0 1px 50px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-first .add-more-pessangers {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.login-first .frame-5 {
+  border-radius: 44.1px;
+  background: #00AEEF;
+  margin-right: 38px;
+  display: flex;
+  padding: 25px 0.1px 25px 0;
+  width: 475px;
+  box-sizing: border-box;
+}
+.login-first .continue {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.login-first .frame-4 {
+  border-radius: 44.1px;
+  background: #103BE9;
+  display: flex;
+  padding: 25px 0.8px 25px 0;
+  width: 475px;
+  box-sizing: border-box;
+}
+.login-first .container {
+  margin-left: 2px;
+  display: flex;
+  flex-direction: row;
+  width: 988px;
+  box-sizing: border-box;
+}
+.login-first .group-56 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 52px 73px 45px 53px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-first .rectangle-97 {
+  position: absolute;
+  left: 0px;
+  top: 95.5px;
+  width: 1440px;
+  height: 159px;
+}
+.login-first .rectangle-96 {
+  position: absolute;
+  left: 50%;
+  top: 118.5px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 162px;
+}
+.login-first .rectangle-95 {
+  position: absolute;
+  left: 50%;
+  top: 132.5px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 148px;
+}
+.login-first .logo-1 {
+  position: relative;
+  margin: 0 0 40.5px 583px;
+  align-self: center;
+  width: 209.9px;
+  height: 133px;
+}
+.login-first .all-rights-reserved {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 12px;
+  color: var(--cold-greywhite, #FFFFFF);
+}
+.login-first .copyright {
+  display: flex;
+  box-sizing: border-box;
+}
+.login-first .let-journey-begin-with-gilijet {
+  margin: 2.5px 0 9.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.login-first .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 779.7px;
+  box-sizing: border-box;
+}
+.login-first .footer-30 {
+  background: #103BE9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 66px 0 13.5px 32px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.login-first .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-first .rectangle-111 {
+  mix-blend-mode: multiply;
+  background: #A7A3A3;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.login-first .xalt {
+  margin-bottom: 18px;
+  align-self: flex-end;
+  width: 49px;
+  height: 49px;
+}
+.login-first .emoji-sad-1 {
+  width: 265px;
+  height: 265px;
+}
+.login-first .emoji-sad {
+  margin: 0 0 7px 1px;
+  display: flex;
+  width: 265px;
+  height: 265px;
+  box-sizing: border-box;
+}
+.login-first .youre-not-login-into-our-platform {
+  margin: 0 19px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 40px;
+  color: #000000;
+}
+.login-first .please-login-your-account-first-to-continue-your-order {
+  margin: 0 20px 37px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.login-first .login {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+  margin-left: 303px;
+}
+.login-first .frame-41 {
+  border-radius: 44.1px;
+  background: #103BE9;
+  margin: 0 59px 0 57px;
+  display: flex;
+  padding: 25px 0.2px 25px 0;
+  width: 658px;
+  box-sizing: border-box;
+}
+.login-first .group-80 {
+  border-radius: 15px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  translate: -50% -50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 13px 39px 13px;
+  box-sizing: border-box;
+  width: 800px;
+  height: 584px;
+}
+.login-first {
+  background: #F9F9F9;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+  position: absolute;
+  margin-top: 220px;
+  top: 220px;
+  bottom: 220px;
+  margin-bottom: 220px;
+}

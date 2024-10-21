@@ -1,0 +1,218 @@
+.success .rectangle-97 {
+  position: absolute;
+  left: 0px;
+  top: 838.5px;
+  width: 1440px;
+  height: 159px;
+}
+.success .rectangle-96 {
+  position: absolute;
+  left: 50%;
+  top: 861.5px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 162px;
+}
+.success .rectangle-95 {
+  position: absolute;
+  left: 50%;
+  top: 875.5px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 148px;
+}
+.success .ellipse-28 {
+  opacity: 0.2;
+  border-radius: 86px;
+  background: #FFFFFF;
+  margin-bottom: 60px;
+  width: 172px;
+  height: 172px;
+}
+.success .ellipse-32 {
+  opacity: 0.2;
+  border-radius: 16.5px;
+  background: #FFFFFF;
+  margin-left: 81px;
+  width: 33px;
+  height: 33px;
+}
+.success .container-3 {
+  margin: 50px 12px 324px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 172px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.success .logo {
+  margin: 0 4.1px 43px 0;
+  width: 209.9px;
+  height: 133px;
+}
+.success .check-circle {
+  margin: 0 0 22px 6px;
+  width: 160px;
+  height: 160px;
+}
+.success .order-successful {
+  margin: 0 8px 22px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 35px;
+  color: #103BE9;
+}
+.success .thank-you-so-much-for-your-order {
+  margin: 0 9px 38px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: #BDBDBD;
+}
+.success .back-to-home {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+  margin-left: 74px;
+}
+.success .frame-5 {
+  border-radius: 44.1px;
+  background: #BDBDBD;
+  margin-right: 21px;
+  display: flex;
+  padding: 25px 0.6px 25px 0;
+  width: 281px;
+  box-sizing: border-box;
+}
+.success .check-status {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+  margin-left: 77px;
+}
+.success .frame-4 {
+  border-radius: 44.1px;
+  background: #103BE9;
+  display: flex;
+  padding: 25px 0.7px 25px 0;
+  width: 281px;
+  box-sizing: border-box;
+}
+.success .container {
+  display: flex;
+  flex-direction: row;
+  width: 583px;
+  box-sizing: border-box;
+}
+.success .group-79 {
+  border-radius: 15px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 59px 0 29px 0;
+  width: 800px;
+  box-sizing: border-box;
+}
+.success .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 800px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.success .ellipse-33 {
+  opacity: 0.2;
+  border-radius: 40px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 83px;
+  top: 127px;
+  width: 80px;
+  height: 80px;
+}
+.success .container-5 {
+  position: relative;
+  display: flex;
+  width: 800px;
+  box-sizing: border-box;
+}
+.success .ellipse-30 {
+  opacity: 0.2;
+  border-radius: 18px;
+  background: #FFFFFF;
+  margin: 500px 0 103px 0;
+  width: 36px;
+  height: 36px;
+}
+.success .ellipse-29 {
+  opacity: 0.2;
+  border-radius: 40px;
+  background: #FFFFFF;
+  margin: 0 48px 87px 0;
+  width: 80px;
+  height: 80px;
+}
+.success .ellipse-31 {
+  opacity: 0.2;
+  border-radius: 86px;
+  background: #FFFFFF;
+  width: 172px;
+  height: 172px;
+}
+.success .container-2 {
+  margin: 128px 0 172px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 172px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.success .container-1 {
+  position: relative;
+  margin: 0 0 180.5px 106px;
+  display: flex;
+  flex-direction: row;
+  width: 1192px;
+  box-sizing: border-box;
+}
+.success .all-rights-reserved {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 12px;
+  color: var(--cold-greywhite, #FFFFFF);
+}
+.success .copyright {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.success .footer-30 {
+  background: #103BE9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 170px 110px 20.5px 32px;
+  box-sizing: border-box;
+}
+.success {
+  background: #FFFFFF;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}

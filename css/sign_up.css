@@ -1,0 +1,326 @@
+.sign-up .sign-up-1 {
+  margin-bottom: 37px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 55px;
+  color: #000000;
+}
+.sign-up .enter-your-email-address {
+  margin-bottom: 14.7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.sign-up .email-address {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 14px;
+  color: #808080;
+}
+.sign-up .container-1 {
+  border-radius: 9px;
+  border: 1px solid #BDBDBD;
+  background: #FFFFFF;
+  position: relative;
+  padding: 19.3px 25.4px 22.7px 25.4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .group-54 {
+  margin-bottom: 23.3px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .enter-your-full-name {
+  margin-bottom: 14.7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.sign-up .password {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 14px;
+  color: #808080;
+}
+.sign-up .container {
+  border-radius: 9px;
+  border: 1px solid #ADADAD;
+  background: #FFFFFF;
+  position: relative;
+  padding: 19.3px 25.4px 22.7px 25.4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .group-55 {
+  margin-bottom: 23.3px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .enter-your-phone-number {
+  margin-bottom: 14.7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.sign-up .password-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 14px;
+  color: #808080;
+}
+.sign-up .container-5 {
+  border-radius: 9px;
+  border: 1px solid #ADADAD;
+  background: #FFFFFF;
+  position: relative;
+  padding: 19.3px 25.4px 22.7px 25.4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .group-58 {
+  margin-bottom: 22.3px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .enter-your-password-2 {
+  margin-bottom: 14.7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.sign-up .password-2 {
+  margin: 2px 8px 6px 0;
+  display: inline-block;
+  width: 307.4px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 14px;
+  color: #808080;
+}
+.sign-up .vuesaxboldeye-slash {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  top: 638px;
+  margin-top: 17px;
+  left: 581px;
+  right: 0px;
+  margin-right: 16px;
+  margin-left: 28px;
+}
+.sign-up .eye-slash {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.sign-up .container-2 {
+  border-radius: 9px;
+  border: 1px solid #ADADAD;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 17.4px 16px 16.6px 25.4px;
+  width: 459px;
+  box-sizing: border-box;
+}
+.sign-up .group-82 {
+  margin-bottom: 37.4px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .register {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+  margin-left: 200px;
+}
+.sign-up .group-56 {
+  border-radius: 10px;
+  background: #103BE9;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  padding: 18.5px 0 17.5px 1px;
+  width: 459px;
+  box-sizing: border-box;
+}
+.sign-up .you-already-have-an-account {
+  margin: 0 0 13px 20.5px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: #103BE9;
+}
+.sign-up .login {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+  margin-left: 210px;
+}
+.sign-up .group-57 {
+  border-radius: 10px;
+  background: #00AEEF;
+  position: relative;
+  display: flex;
+  padding: 18.5px 0 17.5px 1px;
+  width: 459px;
+  box-sizing: border-box;
+}
+.sign-up .group-61 {
+  margin-bottom: 90px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .all-rights-reserved {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 12px;
+  color: #103BE9;
+}
+.sign-up .copyright {
+  margin: 1px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.sign-up .let-journey-begin-with-gilijet {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  color: #103BE9;
+}
+.sign-up .group-81 {
+  margin-right: 0.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 459px;
+  box-sizing: border-box;
+}
+.sign-up .container-3 {
+  margin: 124px 99px 43px 162px;
+  display: flex;
+  flex-direction: column;
+  width: 459px;
+  box-sizing: border-box;
+  height: 750px;
+}
+.sign-up .one-more-step-to-your-jorney {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 73px;
+  color: #FFFFFF;
+}
+.sign-up .container-4 {
+  background: url('../assets/images/rectangle_8.png'), linear-gradient(#103BE9, #103BE9);
+  position: relative;
+  display: flex;
+  padding: 153px 234px 0 99px;
+  width: 720px;
+  height: 1024px;
+  box-sizing: border-box;
+  background-size: auto 1024px;
+  background-repeat: no-repeat;
+  background-position: -940px 0;
+}
+.sign-up {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  width: 1440px;
+  box-sizing: border-box;
+  height: 1024px;
+}
+
+::placeholder {
+  color: #808080;
+}
+
+.input-email-address {
+  width: 459px;
+  height: 58px;
+  border: solid;
+  border-width: 1px;
+  border-radius: 9px;
+  border-color: #BDBDBD;
+  padding-left: 25.44px;
+}
+.input-full-name{
+  width: 459px;
+  height: 58px;
+  border: solid;
+  border-width: 1px;
+  border-radius: 9px;
+  border-color: #BDBDBD;
+  padding-left: 25.44px;
+}
+.input-phone-number{
+  width: 459px;
+  height: 58px;
+  border: solid;
+  border-width: 1px;
+  border-radius: 9px;
+  border-color: #BDBDBD;
+  padding-left: 25.44px;
+}
+.input-password{
+  width: 459px;
+  height: 58px;
+  border: solid;
+  border-width: 1px;
+  border-radius: 9px;
+  border-color: #BDBDBD;
+  padding-left: 25.44px;
+}
+.link-sign-up{
+  color: #103BE9;
+  font-size: 15px;
+  font-weight: 400;
+  font-family: 'Roboto';
+}

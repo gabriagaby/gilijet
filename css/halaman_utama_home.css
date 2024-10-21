@@ -1,0 +1,1208 @@
+.halaman-utama-home .logo {
+  margin: 0 163.1px 240px 250px;
+  width: 88.4px;
+  height: 56px;
+  left: 162;
+}
+.halaman-utama-home .let-journey-begin-with-gilijet-1 {
+  margin: 160px 16.5px 0 0;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 0.977;
+  color: #FFFFFF;
+}
+.halaman-utama-home .login-1 {
+  width: 24px;
+  height: 24px;
+}
+.halaman-utama-home .login {
+  margin-right: 10px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .user-login {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.halaman-utama-home .frame-1 {
+  border-radius: 25px;
+  background: #103BE9;
+  margin: 9px 14px 249px 0;
+  display: flex;
+  flex-direction: row;
+  padding: 7px 15.2px 7px 15px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .profile-circle {
+  width: 24px;
+  height: 24px;
+}
+.halaman-utama-home .frame-2 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  margin: 9px 0 249px 0;
+  display: flex;
+  padding: 7px 15px;
+  width: 54px;
+  height: 38px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .container-20 {
+  background: url('../assets/images/rectangle_8.png') 100% / cover no-repeat;
+  position: relative;
+  margin-bottom: 291px;
+  display: flex;
+  flex-direction: row;
+  padding: 29px 0 325px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .article-and-blog {
+  margin-right: 15px;
+  width: 200px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 25px;
+  color: #000000;
+}
+.halaman-utama-home .more-article {
+  margin-top: 6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama-home .container-1 {
+  margin: 0 93.7px 41px 46px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1065.3px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .chevron-left-circle {
+  margin: 150px 9px 149px 0;
+  width: 35px;
+  height: 35px;
+}
+.halaman-utama-home .ubud {
+    opacity: 0.8;
+    mix-blend-mode: hard-light;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 69.5px;
+    color: #FFFFFF;
+}
+.halaman-utama-home .container-14 {
+  border-radius: 10px;
+  background: url('../assets/images/rectangle_13.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 14px;
+  display: flex;
+  padding: 58px 1.2px 58px 0;
+  width: 268px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .balis-cultural-center-blend-of-art-spirituality-lifestyle-culinary-delights {
+  margin: 0 19.7px 0 14px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 18px;
+  color: #000000;
+}
+.halaman-utama-home .container-15 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama-home .oct-102023 {
+  position: absolute;
+  left: 14px;
+  bottom: 18px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama-home .group-20 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 15px;
+  display: flex;
+  padding-bottom: 32px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .rectangle-131 {
+  border-radius: 10px;
+  background: url('../assets/images/rectangle_133.png') 50% / cover no-repeat;
+  margin-bottom: 14px;
+  width: 268px;
+  height: 200px;
+}
+.halaman-utama-home .international-5-star-resorts-and-golf-courses-for-the-luxury-traveler {
+  margin: 0 21.9px 18px 14px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 18px;
+  color: #000000;
+}
+.halaman-utama-home .oct-1020231 {
+  margin: 0 14px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama-home .group-21 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 18px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .rectangle-132 {
+  border-radius: 10px;
+  background: url('../assets/images/rectangle_132.png') 50% / cover no-repeat;
+  margin-bottom: 14px;
+  width: 268px;
+  height: 200px;
+}
+.halaman-utama-home .mountain-area-with-an-iconic-water-temple-three-lakes {
+  margin: 0 14px 18px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 18px;
+  color: #000000;
+}
+.halaman-utama-home .oct-1020232 {
+  margin: 0 14px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama-home .group-22 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 18px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .kuta {
+  opacity: 0.8;
+  mix-blend-mode: hard-light;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 69.5px;
+  color: #FFFFFF;
+}
+.halaman-utama-home .container-11 {
+  border-radius: 10px;
+  background: url('../assets/images/rectangle_131.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 14px;
+  display: flex;
+  padding: 58px 11px 58px 0;
+  width: 268px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .balis-party-place-for-the-young-and-wild {
+  margin: 0 14px 40px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 18px;
+  color: #000000;
+}
+.halaman-utama-home .oct-1020233 {
+  margin: 0 14px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama-home .group-23 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 9px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 18px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .chevron-left-circle-1 {
+  margin: 150px 0 149px 0;
+  width: 35px;
+  height: 35px;
+}
+.halaman-utama-home .container-17 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .group-24 {
+  margin: 0 117px 55px 118px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .why-should-you-use-our-services {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 0.977;
+  color: #FFFFFF;
+}
+.halaman-utama-home .container-22 {
+  background: #103BE9;
+  position: relative;
+  display: flex;
+  width: 621px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .layer-12 {
+  margin: 0 0.8px 22.8px 0;
+  width: 139.2px;
+  height: 139.2px;
+}
+.halaman-utama-home .best-price-guaranty {
+  margin: 0 8.4px 9px 8.4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 22px;
+  color: #000000;
+}
+.halaman-utama-home .we-know-how-to-travel-on-the-cheap-we-partner-with-awide-of-boats {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama-home .group-281 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .group-29 {
+  margin: 0 87.9px 54px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama-home .layer-1 {
+  margin: 0 0 22.8px 1.2px;
+  width: 139.2px;
+  height: 139.2px;
+}
+.halaman-utama-home .save-and-secure {
+  margin: 0 0 9px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 22px;
+  color: #000000;
+}
+.halaman-utama-home .our-website-and-payment-get-way-is-trusted-with-security-certificate-giving-with-customers-confidence-they-are {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama-home .group-283 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .group-30 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama-home .container-24 {
+  margin-right: 3.8px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .layer-13 {
+  margin: 0 0.8px 22.8px 0;
+  width: 139.2px;
+  height: 139.2px;
+}
+.halaman-utama-home .best-travel-agent {
+  margin: 0 12.7px 9px 13.7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 22px;
+  color: #000000;
+}
+.halaman-utama-home .we-provide-best-traveling-services-for-our-beloved-customers {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama-home .group-282 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .group-31 {
+  margin: 0 91.3px 66px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama-home .customer-support {
+  margin: 0 18.9px 9px 18.9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 22px;
+  color: #000000;
+}
+.halaman-utama-home .we-have-24-hours-customer-support-to-make-ensure-that-your-transaction-and-traveling-is-filled-with-joy {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama-home .group-28 {
+  margin-top: 162px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama-home .container-7 {
+  margin-left: 7.1px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .container-23 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama-home .layer-11 {
+  position: absolute;
+  right: 185.8px;
+  bottom: 210.8px;
+  width: 139.2px;
+  height: 139.2px;
+}
+.halaman-utama-home .container-12 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 49px 6.7px 13px 0;
+  width: 818px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .group-27 {
+  margin: 0 1px 55px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .rectangle-17 {
+  mix-blend-mode: multiply;
+  border-radius: 10px;
+  background: linear-gradient(97.31deg, #103BE9 0.5%, rgba(16, 59, 233, 0) 77.7%);
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 1115px;
+  height: 362px;
+}
+.halaman-utama-home .never-miss-our-offer {
+  position: relative;
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 0.977;
+  color: #FFFFFF;
+}
+.halaman-utama-home .subscribe-and-be-the-first-to-receive-our-exclusive-offers {
+  position: relative;
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 200;
+  font-size: 20px;
+  line-height: 0.977;
+  color: #FFFFFF;
+}
+.halaman-utama-home .enter-your-email-here {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 0.977;
+  color: var(--gray-5, #E0E0E0);
+}
+.halaman-utama-home .group-35 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 22px;
+  width: 508px;
+  height: 59px;
+}
+.halaman-utama-home .check-square {
+  margin-right: 9px;
+  width: 24px;
+  height: 24px;
+}
+.halaman-utama-home .yes-iwould-like-to-receive-offers-and-email-from-gilijet-com {
+  margin: 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 0.977;
+  color: #FFFFFF;
+  padding-top: 15px;
+  padding-left: 30px;
+}
+.halaman-utama-home .group-34 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .group-33 {
+  border-radius: 10px;
+  background: url('../assets/images/rectangle_1241.png') 100% / cover no-repeat;
+  position: relative;
+  margin: 0 0 61px 3px;
+  display: flex;
+  flex-direction: column;
+  padding: 72px 0 72px 64px;
+  width: fit-content;
+  box-sizing: border-box;
+  width: 1115px;
+}
+.halaman-utama-home .rectangle-97 {
+  position: absolute;
+  top: 460px;
+  width: 1440px;
+  height: 159px;
+}
+.halaman-utama-home .rectangle-96 {
+  position: absolute;
+  left: 50%;
+  top: 486.7px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 162px;
+}
+.halaman-utama-home .rectangle-95 {
+  position: absolute;
+  left: 50%;
+  top: 500px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 148px;
+}
+.halaman-utama-home .logo-1 {
+  position: relative;
+  margin: 0 0 50px 7.9px;
+  width: 209.9px;
+  height: 133px;
+}
+.halaman-utama-home .let-journey-begin-with-gilijet {
+  position: relative;
+  margin: 0 0 25px 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.halaman-utama-home .contact-us {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+  padding-left: 62px;
+}
+.halaman-utama-home .button {
+  border-radius: 30px;
+  background: #103BE9;
+  position: relative;
+  margin: 0 0 36px 9px;
+  display: flex;
+  padding: 15.5px 0;
+  width: 203px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .vector-136 {
+  width: 8.7px;
+  height: 16px;
+}
+.halaman-utama-home .social {
+  border-radius: 12px;
+  position: relative;
+  margin-right: 16px;
+  display: flex;
+  padding: 4px 7.3px 4px 8px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .instagram {
+  width: 16.1px;
+  height: 16.1px;
+}
+.halaman-utama-home .social-1 {
+  border-radius: 12px;
+  position: relative;
+  display: flex;
+  padding: 4px 3.9px 3.9px 4px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .frame-12 {
+  position: relative;
+  margin: 0 0 124.5px 8px;
+  display: flex;
+  flex-direction: row;
+  width: 64px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .vector-137 {
+  width: 6.6px;
+  height: 15.1px;
+}
+.halaman-utama-home .arrows {
+  position: relative;
+  margin-bottom: 7px;
+  display: flex;
+  align-self: flex-end;
+  padding: 13.2px 8.5px 12.2px 8.5px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .all-rights-reserved {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 12px;
+  color: var(--cold-greywhite, #FFFFFF);
+}
+.halaman-utama-home .copyright {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+  padding-top: 57px;
+}
+.halaman-utama-home .footer-30 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 87px 0px 20.1px 0px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama-home .vector-43 {
+  width: 34.6px;
+  height: 9.1px;
+}
+.halaman-utama-home .vector-44 {
+  margin: 0 4px 0 0.8px;
+  width: 29.9px;
+  height: 2.3px;
+}
+.halaman-utama-home .boat-icon-24-px {
+  margin: 6px 8.5px 5.1px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 37.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .boat-trip {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 18.4px;
+  color: #FFFFFF;
+}
+.halaman-utama-home .group-1 {
+  margin: 0 125.4px 22.2px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .find-the-best-deals-on-boat-for-your-trip {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 0.977;
+  color: #FFFFFF;
+  white-space: break-spaces;
+    text-wrap-mode: wrap;
+    white-space-collapse: break-spaces;
+}
+.halaman-utama-home .container-9 {
+  background: linear-gradient(rgba(16, 59, 233, 0.3), rgba(16, 59, 233, 0.3)), url('../assets/images/ellipse_3.png');
+  position: relative;
+  margin-right: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 412px;
+  border-top-right-radius: 55%;
+  border-bottom-right-radius: 45%;
+  witdh: 412px;
+  height: 412px;
+  top: 45px;
+  left: 170px;
+}
+.halaman-utama-home .vector-132 {
+  width: 17.7px;
+  height: 20.5px;
+}
+.halaman-utama-home .location {
+  position: absolute;
+  left: 15.1px;
+  bottom: 26.8px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .from {
+  margin-right: 9px;
+  width: 39px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama-home .to {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama-home .container-5 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 354.4px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .vector-1 {
+  background: #F2F2F2;
+  position: absolute;
+  left: 50%;
+  bottom: 0.5px;
+  translate: -50% 0;
+  width: 0px;
+  height: 72.5px;
+}
+.halaman-utama-home .input-location {
+  margin: 11px 9px 10px 0;
+  display: inline-block;
+  width: 92px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: #BDBDBD;
+}
+.halaman-utama-home .input-location .input-from {
+  border: none;
+  width: 200px;
+  height: 20px;
+  outline: none;
+}
+
+::placeholder{
+  color: #BDBDBD;
+}
+.halaman-utama-home .switch-vertical {
+  width: 24px;
+  height: 24px;
+}
+.halaman-utama-home .group-3 {
+  border-radius: 19.5px;
+  background: #103BE9;
+  position: relative;
+  display: flex;
+  padding: 8px 8px 7px 7px;
+  width: 39px;
+  height: 39px;
+  box-sizing: border-box;
+  left: 100px;
+}
+.halaman-utama-home .input-location-1 {
+  margin: 11px 0 10px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: #BDBDBD;
+}
+
+.halaman-utama-home .input-location-1 .input-from-1 {
+  border: none;
+  width: 200px;
+  height: 20px;
+  outline: none;
+  position: relative ;
+  left: 110px;
+}
+.halaman-utama-home .container-13 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 433.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .group-2 {
+  border-radius: 10px;
+  border: 2px solid #F2F2F2;
+  position: relative;
+  padding: 17px 45px 18px 45px;
+  width: 628px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .vector-133 {
+  width: 17.7px;
+  height: 20.5px;
+}
+.halaman-utama-home .location-1 {
+  position: absolute;
+  top: 50%;
+  right: 256.1px;
+  translate: 0 -50%;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+  right: 250px;
+}
+.halaman-utama-home .container-19 {
+  position: relative;
+  display: flex;
+  width: 628px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 628px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .group-7 {
+  position: relative;
+  margin-bottom: 15px;
+  display: flex;
+  width: 628px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .departure {
+  margin-right: 9px;
+  width: 70px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama-home .passengers {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama-home .container-4 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 404.1px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .calendar-add-1 {
+  width: 24px;
+  height: 24px;
+}
+.halaman-utama-home .calendar-add {
+  margin-right: 3.4px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .choose-departure {
+  margin: 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: #BDBDBD;
+}
+.halaman-utama-home .choose-departure .input-choose-departure{
+  border: none;
+  width: 200px;
+  outline: none;
+}
+.halaman-utama-home .group-4 {
+  border-radius: 10px;
+  border: 2px solid #F2F2F2;
+  position: relative;
+  margin-right: 16.2px;
+  display: flex;
+  flex-direction: row;
+  padding: 25px 0 25px 17.6px;
+  width: 305.9px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .people-1 {
+  width: 24px;
+  height: 24px;
+}
+.halaman-utama-home .people {
+  margin-right: 9.8px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .choose {
+  margin: 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: #BDBDBD;
+}
+.halaman-utama-home .choose .select-choose {
+    border: none;
+    outline: none;
+    width: 230px;
+}
+
+.halaman-utama-home .container-8 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.halaman-utama-home .path {
+  border-radius: 2px;
+  width: 12px;
+  height: 6px;
+}
+.halaman-utama-home .chevron-down-alt {
+  background: #FFFFFF;
+  display: flex;
+  padding: 9px 17.3px 9px 6px;
+  width: 35.3px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .group-5 {
+  border-radius: 10px;
+  border: 2px solid #F2F2F2;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 26px 11.8px 24px 19.1px;
+  width: 305.9px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .container-21 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .group-8 {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .currency {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: var(--gray-3, #828282);
+}
+.halaman-utama-home .vector-170 {
+  width: 20px;
+  height: 17px;
+}
+.halaman-utama-home .money {
+  margin: 0.5px 11px 0.5px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .choose-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: #BDBDBD;
+}
+.halaman-utama-home .choose-1 .select-choose-1 {
+    border: none;
+    outline: none;
+    width: 230px;
+}
+.halaman-utama-home .container-10 {
+  margin: 3px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.halaman-utama-home .path-7 {
+  border-radius: 2px;
+  width: 12px;
+  height: 6px;
+}
+.halaman-utama-home .chevron-down-alt-1 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 9px 6px;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .container-3 {
+  border-radius: 10px;
+  border: 2px solid #F2F2F2;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 26px 16px 24px 15px;
+  width: 306px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .group-61 {
+  margin-right: 16px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.halaman-utama-home .search-normal-1 {
+  width: 24px;
+  height: 24px;
+}
+.halaman-utama-home .search-normal {
+  margin-right: 17.6px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .search {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.halaman-utama-home .frame-3 {
+  border-radius: 44.1px;
+  background: #103BE9;
+  margin: 29px 0 1px 0;
+  display: flex;
+  flex-direction: row;
+  padding: 25px;
+  width: 306px;
+  height: fit-content;
+  box-sizing: border-box;
+  color: white;
+  border: none;
+}
+
+.halaman-utama-home .container-18 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.halaman-utama-home .container-16 {
+  margin: 83px 0 181px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.halaman-utama-home .container-2 {
+  position: absolute;
+  left: -179px;
+  bottom: -148px;
+  display: flex;
+  flex-direction: row;
+  width: 1266px;
+  height: 606px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .mask-group {
+  box-shadow: var(--shadow, 0px 0px 25px 0px rgba(0, 0, 0, 0.15));
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  width: 1116px;
+  height: 409px;
+}
+.halaman-utama-home .group-6 {
+  position: absolute;
+  left: 50%;
+  top: 477px;
+  translate: -50% 0;
+  display: flex;
+  width: 1116px;
+  height: 409px;
+  box-sizing: border-box;
+}
+.halaman-utama-home .frame-4 {
+  border-radius: 44.1px;
+  background: #F2F2F2;
+  width: 212px;
+  height: 60px;
+}
+.halaman-utama-home .group-19 {
+  border-radius: 44.1px;
+  position: absolute;
+  right: 162px;
+  bottom: 802px;
+  display: flex;
+  width: 212px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.halaman-utama-home {
+  background: #F9F9F9;
+  padding-bottom: 0.4px;
+  width: 100%;
+  box-sizing: border-box;
+  top: -10px;
+  position: relative;
+}

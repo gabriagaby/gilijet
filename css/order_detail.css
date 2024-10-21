@@ -1,0 +1,936 @@
+.order-detail .logo {
+  width: 88.4px;
+  height: 56px;
+  margin-left: 162px;
+  margin-top: 0px;
+}
+.order-detail .en {
+  margin-right: 15px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.order-detail .path {
+  border-radius: 2px;
+  width: 12px;
+  height: 6px;
+}
+.order-detail .chevron-down-alt {
+  margin: 9px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.order-detail .group-39 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.order-detail .help-contact {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.order-detail .container-8 {
+  margin: 0px 0 0 1035px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 242.8px;
+  height: fit-content;
+  box-sizing: border-box;
+  position: absolute;
+  top: 45px;
+}
+.order-detail .container-2 {
+  background: #103BE9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 29px 0 27px 0;
+  width: 1440px;
+  box-sizing: border-box;
+  margin-top: 0px;
+  margin-right: 0px;
+  height: 112px;
+}
+.order-detail .path-1 {
+  border-radius: 2.9px;
+  width: 17.5px;
+  height: 8.8px;
+  transform: rotate(270deg);
+}
+.order-detail .chevron-down-alt-1 {
+  margin: 11px 17px 5.8px 0;
+  display: flex;
+  width: 35px;
+  height: 35px;
+  box-sizing: border-box;
+}
+.order-detail .back-to-order-list {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #BDBDBD;
+}
+.order-detail .group-57 {
+  margin: 0 66.1px 39px 66.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 265px;
+  box-sizing: border-box;
+}
+.order-detail .name {
+  margin: 0 47px 13px 47px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+.order-detail .content-1 {
+  margin: 0 108px 25px 48px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #828282;
+}
+.order-detail .vector-91 {
+  background: #D1D3D3;
+  margin-bottom: 25px;
+  width: 694px;
+  height: 1px;
+}
+.order-detail .trip-info {
+  margin: 0 50px 17px 50px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+.order-detail .detail-trip {
+  margin: 0 50px 44px 50px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #828282;
+}
+.order-detail .departure {
+  margin-bottom: 0px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #828282;
+}
+.order-detail .container-911 {
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #828282;
+  margin-top: 18px;
+}
+.order-detail .date-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #828282;
+  width: 146px;
+  height: 22px;
+}
+.order-detail .group-91 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.order-detail .arrive {
+  margin-bottom: 18px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #828282;
+}
+.order-detail .container-1 {
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #828282;
+  width: 62px;
+  height: 30px;
+  position: absolute;
+  top: 860px;
+}
+.order-detail .tue-10-oct-20232 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #828282;
+}
+.order-detail .group-92 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  width: 146px;
+  height: 109px;
+}
+.order-detail .duration-1 {
+  margin: 0 18.4px 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #828282;
+}
+.order-detail .h-30-m {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #828282;
+}
+.order-detail .group-93 {
+  margin-bottom: 39px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.order-detail .container-9 {
+  margin: 0 50px 44px 50px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 70.2px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.order-detail .objects {
+  position: absolute;
+  top: -1.7px;
+  right: -4.5px;
+  width: 60px;
+  height: 45.6px;
+}
+.order-detail .frame {
+  position: relative;
+  margin-right: 13.4px;
+  width: 55.5px;
+  height: 50.9px;
+}
+.order-detail .gilijet-express-1 {
+  margin: 9.5px 0 26.08px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 27.1px;
+  color: #000000;
+}
+.order-detail .group-58 {
+  margin: 0 50px 26.1px 50px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.order-detail .vector-101 {
+  background: #D1D3D3;
+  margin-bottom: 45px;
+  width: 694px;
+  height: 1px;
+  position: absolute;
+  top: 621px;
+  margin-top: 28px;
+}
+.order-detail .vector-11 {
+  margin: 63px 0px 15px 0;
+  width: 5px;
+  height: 218.998px;
+}
+.order-detail .container-121 {
+  margin: 0px 15px 0 0;
+  display: inline-block;
+  width: 66px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #828282;
+}
+.order-detail .kabupaten-banyuwangi {
+  margin-bottom: 0px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #828282;
+}
+.order-detail .container-12 {
+  margin: 0 21px 8px 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 438.5px;
+  box-sizing: border-box;
+}
+.order-detail .date-3 {
+  margin: 5px 11px 27px 0;
+  display: inline-block;
+  width: 146px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #828282;
+  height: 22px;
+}
+.order-detail .address-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: #828282;
+  width: 296px;
+  height: 54px;
+}
+.order-detail .container-6 {
+  margin: 0 14.6px 44px 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 511.4px;
+  box-sizing: border-box;
+}
+.order-detail .vector-111 {
+  background: #D1D3D3;
+  margin-bottom: 46px;
+  width: 548px;
+  height: 1px;
+}
+.order-detail .container-3 {
+  margin: 5px 15px 0 0;
+  display: inline-block;
+  width: 66px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #828282;
+}
+.order-detail .bali {
+  margin-bottom: 11px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #828282;
+}
+.order-detail .container-1 {
+  margin: 47px 21px 17px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 249.8px;
+  box-sizing: border-box;
+  top: 845px;
+}
+.order-detail .container-11 {
+  display: flex;
+  flex-direction: column;
+  width: 548px;
+  box-sizing: border-box;
+  margin-left: 21px;
+  margin-top: 46px;
+}
+.order-detail .container-5 {
+  margin: 0 66px 0px 66px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 548px;
+  box-sizing: border-box;
+}
+.order-detail .date-2 {
+  margin: 0px 11px 0px 0;
+  display: inline-block;
+  width: 146px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #828282;
+}
+.order-detail .address-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: #828282;
+  width: 296px;
+  height: 36px;
+  margin-left: 306px;
+  margin-right: 94px;
+  position: absolute;
+  top: 898px;
+  margin-top: 36px;
+}
+.order-detail .container-13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 509.3px;
+  box-sizing: border-box;
+  margin-right: 0px;
+  margin-left: 0px;
+  width: 66px;
+  height: 30px;
+  margin-top: 5px;
+}
+.order-detail .group-56 {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 19px;
+  display: flex;
+  flex-direction: column;
+  padding: 37px 0 124px 0;
+  box-sizing: border-box;
+  width: 694px;
+  left: 0px;
+  height: 1087px;
+  padding-bottom: 0px;
+}
+.order-detail .booking-code {
+  margin: 0 7.5px 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+.order-detail .glj-72691 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 45px;
+  color: #103BE9;
+}
+.order-detail .group-67 {
+  margin: 0 31px 30px 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.order-detail .vector-9 {
+  background: #D1D3D3;
+  margin-bottom: 36px;
+  width: 403px;
+  height: 1px;
+}
+.order-detail .departure-tour {
+  margin: 0 31px 13px 31px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #BDBDBD;
+}
+.order-detail .layer-1 {
+  width: 46.4px;
+  height: 14.6px;
+}
+.order-detail .boat-icon-24-px {
+  margin: 5.8px 14.5px 3.7px 0;
+  display: flex;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.order-detail .pelabuhan-ketapang-kt {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.order-detail .group-71 {
+  margin: 0 33.1px 0px 33.1px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+  height: 50px;
+}
+.order-detail .vector-10 {
+  background: #D1D3D3;
+  margin: 0 291px 13px 0;
+  align-self: center;
+  width: 1px;
+  height: 36px;
+}
+.order-detail .layer-11 {
+  width: 46.4px;
+  height: 14.6px;
+}
+.order-detail .boat-icon-24-px-1 {
+  margin: 5.8px 14.5px 3.7px 0;
+  display: flex;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.order-detail .gilimanuk-gm {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.order-detail .group-70 {
+  margin: 0 33.1px 21px 33.1px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+  height: 50px;
+}
+.order-detail .tue-10-oct-2023 {
+  margin-right: 12px;
+  width: 163px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #BDBDBD;
+}
+.order-detail .pm {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #BDBDBD;
+}
+.order-detail .container-4 {
+  margin: 0 32px 41px 34px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 337px;
+  box-sizing: border-box;
+}
+.order-detail .vector-7 {
+  background: #D1D3D3;
+  margin-bottom: 27px;
+  width: 403px;
+  height: 1px;
+}
+.order-detail .boat {
+  margin-right: 12px;
+  width: 44px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.order-detail .gilijet-express {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.order-detail .group-72 {
+  margin: 0 32px 18px 31px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 340px;
+  box-sizing: border-box;
+}
+.order-detail .passangers {
+  margin-right: 12px;
+  width: 110px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 19px;
+  color: #000000;
+  height: 24px;
+  margin-bottom: 0px;
+}
+.order-detail .mature {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.order-detail .group-73 {
+  margin: 0 32px 18px 31px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 340px;
+  box-sizing: border-box;
+}
+.order-detail .duration {
+  margin-right: 12px;
+  width: 81px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.order-detail .minutes {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.order-detail .group-74 {
+  margin: 0 32px 18px 31px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 340px;
+  box-sizing: border-box;
+}
+.order-detail .sub-total {
+  margin-right: 12px;
+  width: 89px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.order-detail .idr-215000 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.order-detail .group-75 {
+  margin: 0 32px 41px 31px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 340px;
+  box-sizing: border-box;
+}
+.order-detail .vector-8 {
+  background: #D1D3D3;
+  margin-bottom: 17px;
+  width: 403px;
+  height: 0px;
+}
+.order-detail .total {
+  margin: 0 31px 9px 31px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 25px;
+  color: #000000;
+}
+.order-detail .idr-2150001 {
+  margin: 0 27px;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 35px;
+  color: #103BE9;
+}
+.order-detail .group-65 {
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: column;
+  padding: 41px 0 21px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.order-detail .transaction-info {
+  margin-bottom: 23px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+.order-detail .status {
+  margin-right: 12px;
+  width: 61px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.order-detail .success {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #37C234;
+}
+.order-detail .group-721 {
+  margin: 0 0 14px 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 340px;
+  box-sizing: border-box;
+}
+.order-detail .payment-method {
+  margin-right: 12px;
+  width: 162px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.order-detail .paypal {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.order-detail .group-731 {
+  margin: 0 0 14px 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 340px;
+  box-sizing: border-box;
+}
+.order-detail .transaction-date {
+  margin: 0 12px 24px 0;
+  display: inline-block;
+  width: 161px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.order-detail .transaction-date-1 {
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+  height: 48px;
+  width: 125px;
+}
+.order-detail .group-741 {
+  margin-left: 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 340px;
+  box-sizing: border-box;
+}
+.order-detail .group-90 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 31px 32px 25px 29px;
+  width: fit-content;
+  box-sizing: border-box;
+  width: 403px;
+  height: 239px;
+}
+.order-detail .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  margin-top: 0px;
+  width: 403px;
+  height: 794px;
+}
+.order-detail .container-10 {
+  margin-bottom: 38px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.order-detail .download-eticket {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+  margin-left: 148.5px;
+}
+.order-detail .frame-4 {
+  border-radius: 44.1px;
+  background: #103BE9;
+  margin: 38px 0 38px 1px;
+  display: flex;
+  padding: 25px 0.3px 25px 0;
+  width: 475px;
+  box-sizing: border-box;
+}
+.order-detail .rectangle-97 {
+  position: absolute;
+  left: 0px;
+  top: 95.5px;
+  width: 1440px;
+  height: 159px;
+}
+.order-detail .rectangle-96 {
+  position: absolute;
+  left: 50%;
+  top: 118.5px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 162px;
+}
+.order-detail .rectangle-95 {
+  position: absolute;
+  left: 50%;
+  top: 132.5px;
+  translate: -50% 0;
+  width: 1440px;
+  height: 148px;
+}
+.order-detail .logo-1 {
+  position: relative;
+  margin: 0 0 43px 0px;
+  align-self: center;
+  width: 209.9px;
+  height: 133px;
+}
+.order-detail .all-rights-reserved {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 12px;
+  color: var(--cold-greywhite, #FFFFFF);
+}
+.order-detail .copyright {
+  margin-top: 4.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.order-detail .let-journey-begin-with-gilijet {
+  margin-bottom: 2.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  color: #FFFFFF;
+  position: absolute;
+  left: 613px;
+  width: 184px;
+}
+.order-detail .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 779.7px;
+  box-sizing: border-box;
+}
+.order-detail .footer-30 {
+  background: #103BE9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 66px 0 20.5px 32px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.order-detail {
+  background: #F9F9F9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.order-detail .date-4 {
+  height: 30px;
+  width: 146px;
+  font-size: 18px;
+  margin-left: 91px;
+  margin-top: 36px;
+  position: absolute;
+  top: 903px;
+}
+.order-detail .container-921 {
+  width: 62px;
+  height: 30px;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #828282;
+  margin-bottom: 17px;
+}
