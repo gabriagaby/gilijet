@@ -207,7 +207,7 @@
 }
 .profile .id-type {
   margin-right: 15px;
-  width: 90px;
+  width: 91px;
   overflow-wrap: break-word;
   font-family: 'Inter';
   font-weight: 400;
@@ -233,14 +233,15 @@
 .profile .passport {
   margin: 15px 15px 15px 0;
   display: inline-block;
-  width: 130px;
+  width: 135px;
   overflow-wrap: break-word;
   font-family: 'Inter';
   font-weight: 400;
   font-size: 25px;
   color: #000000;
+  border: none;
 }
-.profile .g-0486472 {
+.profile .form-id-number {
   margin: 15px 0;
   display: inline-block;
   overflow-wrap: break-word;
@@ -248,6 +249,9 @@
   font-weight: 400;
   font-size: 25px;
   color: #000000;
+  position: absolute;
+  left: 290px;
+  border:none;
 }
 .profile .change-2 {
   overflow-wrap: break-word;
@@ -274,7 +278,8 @@
   flex-direction: row;
   justify-content: space-between;
   padding: 16px 13px 16px 20px;
-  width: 1064px;
+  width: 1090px;
+  height: 92px;
   box-sizing: border-box;
 }
 .profile .group-103 {
@@ -299,6 +304,8 @@
   font-weight: 400;
   font-size: 25px;
   color: #7D868C;
+  margin-left: 248px;
+  position: absolute;
 }
 .profile .gender {
   overflow-wrap: break-word;
@@ -306,6 +313,8 @@
   font-weight: 400;
   font-size: 25px;
   color: #7D868C;
+  position: absolute;
+  left: 687px;
 }
 .profile .container-1 {
   margin-bottom: 17px;
@@ -316,7 +325,7 @@
   width: 731.1px;
   box-sizing: border-box;
 }
-.profile .irfan-achmad-faizal {
+.profile .form-full-name {
   margin: 15px 15px 15px 0;
   display: inline-block;
   width: 234px;
@@ -325,8 +334,9 @@
   font-weight: 400;
   font-size: 25px;
   color: #000000;
+  border:none;
 }
-.profile .august-1996 {
+.profile .form-birth {
   margin: 15px 0;
   display: inline-block;
   overflow-wrap: break-word;
@@ -334,8 +344,12 @@
   font-weight: 400;
   font-size: 25px;
   color: #000000;
+  border: none;
+  width: 210px;
+  position: absolute;
+  left: 360px;
 }
-.profile .male {
+.profile .form-gender {
   margin: 15px 0;
   display: inline-block;
   overflow-wrap: break-word;
@@ -343,6 +357,10 @@
   font-weight: 400;
   font-size: 25px;
   color: #000000;
+  border: none;
+  width: 110px;
+  position: absolute;
+  left: 660px;
 }
 .profile .change-3 {
   overflow-wrap: break-word;
@@ -369,7 +387,7 @@
   flex-direction: row;
   justify-content: space-between;
   padding: 16px 13px 16px 20px;
-  width: 1064px;
+  width: 1090px;
   box-sizing: border-box;
 }
 .profile .group-104 {
@@ -404,7 +422,7 @@
   width: 296.1px;
   box-sizing: border-box;
 }
-.profile .indonesia {
+.profile .form-country {
   margin: 15px 15px 15px 0;
   display: inline-block;
   width: 114px;
@@ -413,8 +431,10 @@
   font-weight: 400;
   font-size: 25px;
   color: #000000;
+  width: auto;
+  border: none;
 }
-.profile .bandung {
+.profile .form-city {
   margin: 15px 0;
   display: inline-block;
   overflow-wrap: break-word;
@@ -422,6 +442,9 @@
   font-weight: 400;
   font-size: 25px;
   color: #000000;
+  position: absolute;
+  border: none;
+  left: 249px;
 }
 .profile .change-4 {
   overflow-wrap: break-word;
@@ -448,7 +471,7 @@
   flex-direction: row;
   justify-content: space-between;
   padding: 16px 13px 16px 20px;
-  width: 1064px;
+  width: 1090px;
   box-sizing: border-box;
 }
 .profile .group-105 {
@@ -479,11 +502,22 @@
   color: #000000;
 }
 .profile .change-5 {
-  overflow-wrap: break-word;
+  width: 212px;
+  height: 60px;
+  background-color: #F2F2F2;
+  border: none;
+  position: absolute;
+  border-radius: 44px;
   font-family: 'Inter';
   font-weight: 400;
   font-size: 20px;
-  color: var(--gray-3, #828282);
+  color: #828282;
+  left: 890px;
+  top: 1055px;
+  margin-top: 16px;
+  bottom: 0px;
+  margin-bottom: 16px;
+  z-index: 1;
 }
 .profile .frame-46 {
   border-radius: 44.1px;
@@ -519,6 +553,7 @@
   font-weight: 400;
   font-size: 20px;
   color: #7D868C;
+  padding-left: 164.5px;
 }
 .profile .frame-5 {
   border-radius: 44.1px;
@@ -535,6 +570,7 @@
   font-weight: 400;
   font-size: 20px;
   color: #FFFFFF;
+  padding-left: 214px;
 }
 .profile .frame-45 {
   border-radius: 44.1px;
@@ -595,7 +631,7 @@
 }
 .profile .logo-1 {
   position: relative;
-  margin: 0 0 43px 583px;
+  margin: 0 0 43px 0px;
   align-self: center;
   width: 209.9px;
   height: 133px;
@@ -620,6 +656,10 @@
   font-weight: 400;
   font-size: 14px;
   color: #FFFFFF;
+  position: absolute;
+  left: 608px;
+  width: 184px;
+  height: 16px;
 }
 .profile .container {
   position: relative;
@@ -641,7 +681,7 @@
   padding: 66px 0 20.5px 32px;
   width: 1440px;
   box-sizing: border-box;
-  top: 1700px;
+  top: 1470px;
   height: 281px;
 }
 .profile {
@@ -649,4 +689,128 @@
   display: flex;
   width: 1440px;
   box-sizing: border-box;
+}
+
+.form-phone-number{
+  border-color: #D1D3D3;
+  width: 1064px;
+  height: 92px;
+  border-radius: 15px;
+  font-family: inter;
+  font-weight: 400;
+  font-size: 25px;
+  color:#000000;
+  padding-left: 20px;
+}
+.button-change-phone-number {
+  width: 212px;
+  height: 60px;
+  background-color: #F2F2F2;
+  border: none;
+  position: absolute;
+  border-radius: 44px;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #828282;
+  left: 890px;
+  top: 252px;
+  margin-top: 16px;
+  bottom: 0px;
+  margin-bottom: 16px;
+  z-index: 1;
+}
+.form-email {
+  border-color: #D1D3D3;
+  width: 1064px;
+  height: 92px;
+  border-radius: 15px;
+  font-family: inter;
+  font-weight: 400;
+  font-size: 25px;
+  color:#000000;
+  padding-left: 20px;
+}
+.button-change-email{
+  width: 212px;
+  height: 60px;
+  background-color: #F2F2F2;
+  border: none;
+  position: absolute;
+  border-radius: 44px;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #828282;
+  left: 890px;
+  top: 412px;
+  margin-top: 16px;
+  bottom: 0px;
+  margin-bottom: 16px;
+  z-index: 1;
+}
+.form-password{
+  border-color: #D1D3D3;
+  width: 1064px;
+  height: 92px;
+  border-radius: 15px;
+  font-family: inter;
+  font-weight: 400;
+  font-size: 25px;
+  color:#000000;
+  padding-left: 20px;
+}
+.button-change-id{
+  width: 212px;
+  height: 60px;
+  background-color: #F2F2F2;
+  border: none;
+  position: absolute;
+  border-radius: 44px;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #828282;
+  left: 860px;
+  top: 0px;
+  margin-top: 16px;
+  bottom: 0px;
+  margin-bottom: 16px;
+  z-index: 1;
+}
+.button-change-name{
+  width: 212px;
+  height: 60px;
+  background-color: #F2F2F2;
+  border: none;
+  position: absolute;
+  border-radius: 44px;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #828282;
+  left: 860px;
+  top: 0px;
+  margin-top: 16px;
+  bottom: 0px;
+  margin-bottom: 16px;
+  z-index: 1;
+}
+.button-change-country{
+  width: 212px;
+  height: 60px;
+  background-color: #F2F2F2;
+  border: none;
+  position: absolute;
+  border-radius: 44px;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #828282;
+  left: 860px;
+  top: 0px;
+  margin-top: 16px;
+  bottom: 0px;
+  margin-bottom: 16px;
+  z-index: 1;
 }
